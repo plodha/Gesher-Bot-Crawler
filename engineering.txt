@@ -1,0 +1,1 @@
+This file allows soeCrawler.js to write the classes to this file. 

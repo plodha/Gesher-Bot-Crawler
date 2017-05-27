@@ -1,0 +1,766 @@
+Applied Mathematics &amp; Statistics
+Biomolecular Engineering
+Computational Media
+Computer Engineering
+Computer Science
+Electrical Engineering
+Games and Playable Media
+Information Systems Management
+Technology &amp; Information Management
+AMS2: Pre-Statistics
+AMS3: Precalculus for the Social Sciences
+AMS5: Statistics
+AMS6: Precalculus for Statistics
+AMS7: Statistical Methods for the Biological, Environmental, and Health Sciences
+AMS7L: Statistical Methods for the Biological, Environmental, and Health Sciences Laboratory
+AMS10: Mathematical Methods for Engineers I
+AMS10A: Basic Mathematical Methods for Engineers I
+AMS10B: Mathematical Methods for Engineers IB
+AMS11A: Mathematical Methods for Economists I
+AMS11B: Mathematical Methods for Economists II
+AMS15A: Case-Study Calculus I
+AMS15B: Case-Study Calculus II
+AMS20: Mathematical Methods for Engineers II
+AMS20A: Basic Mathematical Methods for Engineers II
+AMS20B: Mathematical Methods for Engineers IIB
+AMS27: Mathematical Methods for Engineers
+AMS27L: Mathematical Methods for Engineers Laboratory
+AMS80A: Gambling and Gaming
+AMS80B: The Art of Data Visualization
+AMS100: Mathematical Methods for Engineers III
+AMS107: Introduction to Fluid Dynamics
+AMS113: Managerial Statistics
+AMS114: Introduction to Dynamical Systems
+AMS115: Stochastic Modeling in Biology
+AMS118: Estimation and Introduction to Control of Stochastic Processes
+AMS131: Introduction to Probability Theory
+AMS132: Classical and Bayesian Inference
+AMS146: Introduction to Dynamical Systems
+AMS147: Computational Methods and Applications
+AMS148: New Course in Development
+AMS156: Linear Regression
+AMS162: Design and Analysis of Computer Simulation Experiments
+AMS198: Independent Study or Research
+AMS198F: Independent Study or Research
+AMS200: Research and Teaching in AMS
+AMS202: Linear Models in SAS
+AMS203: Introduction of Probability Theory
+AMS204: Introduction to Statistical Data Analysis
+AMS205: Mathematical Statistics
+AMS205A: Mathematical Statistics
+AMS205B: Intermediate Classical Inference
+AMS206: Classical and Bayesian Inference
+AMS206B: Intermediate Bayesian Inference
+AMS207: Intermediate Bayesian Statistical Modeling
+AMS209: Foundations of Scientific Computing
+AMS210: Mathematical Models
+AMS211: Foundations of Applied Mathematics
+AMS212A: Applied Mathematical Methods I
+AMS212B: Applied Mathematical Methods II
+AMS213: Numerical Solutions of Differential Equations
+AMS213A: Numerical Linear Algebra
+AMS213B: Numerical Methods for the Solution of Differential equations
+AMS214: Applied Dynamical Systems
+AMS215: Stochastic Modeling in Biology
+AMS216: Stochastic Differential Equations
+AMS217: Introduction to Fluid Dynamics
+AMS218: Estimation and Introduction to Control of Stochastic Processes
+AMS221: Bayesian Decision Theory
+AMS223: Time Series Analysis
+AMS225: Multivariate Statistical Methods
+AMS227: Waves and Instabilities in Fluids
+AMS230: Numerical Optimization
+AMS231: Nonlinear Control Theory
+AMS232: Applied Optimal Control
+AMS236: Motion Coordination of Robotic Networks
+AMS238: Fundamentals of Uncertainty Quantification in Computational Science and Engineering
+AMS241: Bayesian Nonparametric Methods
+AMS245: Spatial Statistics
+AMS250: An Introduction to High Performance Computing
+AMS256: Linear Statistical Models
+AMS260: Computational Fluid Dynamics
+AMS261: Probability Theory with Markov Chains
+AMS263: Stochastic Processes
+AMS266A: Data Visualization and Statistical Programming in R
+AMS266B: Advanced Statistical Programming in R
+AMS266C: Introduction to Data Wrangling
+AMS268: Advanced Bayesian Computation
+AMS274: Generalized Linear Models
+AMS275: Magnetohydrodynamics
+AMS276: Bayesian Survival Analysis and Clinical Trial Design
+AMS280A: Seminar in Mathematical and Computational Biology
+AMS280B: Seminars in Statistical and Applied Mathematical Modeling
+AMS280C: Seminar in Geophysical &amp; Astrophysical Fluid Dynamics
+AMS280D: Seminar in Bayesian Statistical Methodology
+AMS285: Seminar in Career Skills
+AMS290A: Topics in Mathematical and Computational Biology
+AMS290B: Advanced Topics in the Numerical Solution of PDEs
+AMS291: Advanced Topics in Bayesian Statistics
+AMS296: Masters Project
+AMS297: Independent Study or Research
+AMS297F: Independent Study
+AMS299: Thesis Research
+BME5: Introduction to Biotechnology
+BME51A: Applied Electronics for Bioengineers part 1
+BME51B: Applied Electronics for Bioengineers part 2
+BME60: Programming for Biologists and Biochemists
+BME60L: Programming for Biologists and Biochemists Laboratory
+BME80G: Bioethics in the 21st Century: Science, Business, and Society
+BME80H: The Human Genome
+BME83: The Genetic Revolution: Science and Technology
+BME88A: BMES Freshman Design Seminar
+BME94: Group Tutorial
+BME94F: Group Tutorial
+BME99: Tutorial
+BME99F: Tutorial
+BME101: Applied Electronics for Bioengineers
+BME101L: Applied Electronics for Bioengineers Lab
+BME109: Resource-Efficient Programming
+BME110: Computational Biology Tools
+BME122H: Extreme Environmental Virology
+BME123A: Bioengineering Project 1
+BME123B: Bioengineering Project 2
+BME123T: Senior Thesis Presentation
+BME128: Protein Engineering
+BME128L: Protein Engineering Laboratory
+BME129A: Project Design and Implementation in Biomolecular Engineering I
+BME129B: Project Design and Implementation in Biomolecular Engineering II
+BME129C: Project Design and Implementation in Biomolecular Engineering III
+BME130: Genomes
+BME132: Evolutionary Genomics
+BME140: Bioinstrumentation
+BME150: Molecular Biomechanics
+BME150L: Molecular Biomechanics Laboratory
+BME155: Biotechnology and Drug Development
+BME160: Research Programming in the Life Sciences
+BME160L: Research Programming in the Life Sciences Laboratory
+BME163: Applied Visualization and Analysis of Scientific Data
+BME170: Frontiers in Drug Action and Discovery
+BME177: Engineering Stem Cells
+BME178: Stem Cell Biology
+BME180: Professional Practice in Bioengineering
+BME185: Technical Writing for Biomolecular Engineers
+BME188A: Synthetic Biology Mentored Research A
+BME188B: Synthetic Biology Mentored Research B
+BME193: Field Study
+BME193F: Field Study
+BME194: Group Tutorial
+BME194F: Group Tutorial
+BME195: Senior Thesis Research
+BME195F: Senior Thesis or Research
+BME198: Individual Study or Research
+BME198F: Individual Study or Research
+BME199: Tutorial
+BME200: Research and Teaching in Bioinformatics
+BME201: Scientific Writing
+BME205: Bioinformatics Models and Algorithms
+BME207: Biomolecular Recognition
+BME210: Experimental Systems Biology
+BME211: Computational Systems Biology
+BME215: Applied Gene Technology
+BME220: Protein Bioinformatics
+BME220L: Protein Bioinformatics Laboratory
+BME222: Applied Biotechnology: Engineering Immunotherapeutic Drugs
+BME225: Protein Function in Biology and Bioinformatics
+BME228: Protein Engineering
+BME229: Protein and Cell Engineering
+BME230: Computational Genomics
+BME230L: Computational Genomics Laboratory
+BME232: Evolutionary Genomics
+BME233: A Technological History of Antibody Genetics
+BME235: Banana Slug Genomics
+BME237: Applied RNA Bioinformatics
+BME247: Stem Cell Research: Scientific, Ethical, Social, and Legal Issues
+BME250: Molecular Biomechanics
+BME250L: Molecular Biomechanics Laboratory
+BME255: Biotechnology and Drug Development
+BME263: Applied Visualization and Analysis of Scientific Data
+BME268A: Science and Justice: Experiments in Collaboration
+BME268B: Science and Justice Research Seminar
+BME270: Frontiers in Drug Action and Discovery
+BME280B: Seminar on Bioinformatics &amp; Bioengineering
+BME281A: Seminar on Processive Enzymes and Nanopores
+BME281B: HIV Vaccine Research
+BME281C: Seminar in Cancer Genomics
+BME281D: Seminar on Protein Engineering
+BME281E: Seminar in Genomics
+BME281F: Seminar on Blood Cell Development
+BME281G: Seminar on Protein Structure and Function
+BME281H: Seminar in Comparative Genomics
+BME281K: Seminar on Protein Structure Prediction
+BME281L: Seminar in Computational Genetics
+BME281N: Seminar in Transcriptomics
+BME281P: Seminar on Nanotechnology and Biosensors
+BME281R: Seminar in Stem Cell Genomics
+BME281S: Seminar in Computational Functional Genomics
+BME281V: Immunogenomics Seminar
+BME293: Seminar in Biomolecular Engineering
+BME296: Research in Bioinformatics
+BME297: Independent Study or Research
+BME297F: Independent Study or Research
+BME299: Thesis Research
+CMPM1: 1
+CMPM2: test
+CMPM25: Introduction to 3D Modeling
+CMPM26: Introduction to 3D Animation
+CMPM80K: Foundations of Video Game Design
+CMPM120: Game Development Experience
+CMPM131: User Experience for Interactive Media
+CMPM146: Game AI
+CMPM147: Generating Worlds
+CMPM148: Interactive Narrative
+CMPM150: Creating Digital Audio
+CMPM164: Game Engines Lab
+CMPM164L: Game Engines Lab
+CMPM170: Game Design Studio I
+CMPM171: Games Design Studio II
+CMPM172: Game Design Studio III
+CMPM176: Game Systems
+CMPM177: Creative Strategies for Designing Interactive Media
+CMPM178: Human-Centered Design Research
+CMPM179: Game Design Practicum
+CMPM201: Introduction to Computational Media
+CMPM202: Computational Media Research
+CMPM235: User Evaluation of Technology
+CMPM244: Artificial Intelligence in Games
+CMPM245: Computational Models of Discourse and Dialogue
+CMPM248: Interactive Narrative
+CMPM265: Generative Methods
+CMPM280G: Seminar in Generative Methods
+CMPM280H: Seminar in Human Computer Interaction and Computational Media
+CMPM280K: Seminar in Interactive Systems for Individuals with Special Needs
+CMPM280W: Seminar in Digital Media
+CMPM280X: Seminar on Expressive AI
+CMPM280Z: Seminar in Natural Language Processing and Dialogue
+CMPM290A: Topics in Computational Media
+CMPM290J: Playable Media
+CMPM290K: Social and Emotional Approaches to Human Computer Interaction
+CMPM290P: Topics in Computational Cinematography
+CMPE1: Hands-On Computer Engineering
+CMPE3: Personal Computer Concepts: Software and Hardware
+CMPE7: Statistical Reasoning in the Age of the Internet
+CMPE8: Robot Automation: Intelligence through Feedback Control
+CMPE9: Introduction to Statics Dynamics &amp; Biomechanics
+CMPE10: Fundamentals of Robot Kinematics and Dynamics 
+CMPE12: Computer Systems and Assembly Language
+CMPE12L: Computer Systems and Assembly Language Laboratory
+CMPE13: Computer Systems and C Programming
+CMPE13L: Computer Systems and C Programming Laboratory
+CMPE16: Applied Discrete Mathematics
+CMPE80A: Universal Access: Disability, Technology, and Society
+CMPE80E: Engineering Ethics
+CMPE80H: History of Modern Computing
+CMPE80N: Introduction to Networking and the Internet
+CMPE80U: Ubiquitous and Mobile Computing
+CMPE94: Group Tutorial
+CMPE94F: Group Tutorial
+CMPE99: Tutorial
+CMPE99F: Tutorial
+CMPE100: Logic Design
+CMPE100L: Logic Design Laboratory
+CMPE105: Principles of Computer Systems Design
+CMPE107: Probability and Statistics for Engineers (formerly Math Systems:  Stochastic)
+CMPE108: Data Compression
+CMPE110: Computer Architecture
+CMPE112: Computer and Game Console Architecture
+CMPE113: Parallel Programming
+CMPE115: Introduction to Solid Mechanics
+CMPE117: Embedded Software
+CMPE117L: Embedded Software Laboratory
+CMPE118: Introduction to Mechatronics
+CMPE118L: Introduction to Mechatronics Laboratory
+CMPE121: Microprocessor System Design
+CMPE121L: Microprocessor System Design Laboratory
+CMPE122: Introduction to VLSI Digital System Design
+CMPE123A: Engineering Design Project I
+CMPE123B: Engineering Design Project II
+CMPE125: Logic Design with Verilog
+CMPE125L: Logic Design with Verilog Laboratory
+CMPE126: Advanced Logic Design
+CMPE126L: Advanced Logic Design Laboratory
+CMPE129A: Capstone Project I
+CMPE129B: Capstone Project II
+CMPE129C: Capstone Project III
+CMPE131: Human-Computer Interaction
+CMPE138: Computer Interaction of Persons with Limited Vision
+CMPE141: Feedback Control Systems
+CMPE142: Introduction to Cyber-physical Systems
+CMPE145: Estimation and Introduction to Control of Stochastic Processes
+CMPE149: Introduction to Cyber-physical Systems
+CMPE150: Introduction to Computer Networks
+CMPE150L: Introduction to Computer Networks Laboratory
+CMPE151: Advanced Computer Networks (formerly Network Administration)
+CMPE151L: Advanced Computer Networks Laboratory
+CMPE152: Analysis and Design of Communication Protocols
+CMPE153: Digital Signal Processing
+CMPE156: Network Programming
+CMPE156L: Network Programming Laboratory
+CMPE158: Network Management and Operations
+CMPE161: Mobile Sensing and Interaction
+CMPE167: Sensing and Sensor Technologies
+CMPE167L: Sensing and Sensor Technologies Lab
+CMPE173: High-Speed Digital Design
+CMPE173L: High-Speed Digital Design Laboratory
+CMPE174: Introduction to EDA Tools for PCB Design
+CMPE177: Applied Graph Theory and Algorithms
+CMPE185: Technical Writing for Computer Engineers
+CMPE193: Field Study
+CMPE193F: Field Study
+CMPE194: Group Tutorial
+CMPE194F: Group Tutorial
+CMPE195: Senior Thesis Research
+CMPE195F: Senior Thesis Research
+CMPE198: Individual Study or Research
+CMPE198F: Individual Study or Research
+CMPE199: Tutorial
+CMPE199F: Tutorial
+CMPE200: Research and Teaching in Computer Science and Engineering
+CMPE202: Computer Architecture
+CMPE215: Models of Robotic Manipulation
+CMPE216: Bio-inspired Locomotion
+CMPE218: Mechatronics
+CMPE218L: Mechatronics
+CMPE220: Advanced Parallel Processing
+CMPE221: Advanced Microprocessor Design
+CMPE221L: Advanced Microprocessor Design Laboratory
+CMPE222: VLSI Digital System Design
+CMPE223: VLSI System-on-a-Chip Design
+CMPE224: Testing Digital Circuits
+CMPE225: Introduction to ASIC Systems Design
+CMPE226: Computer-Aided Analysis of Electrical Circuits
+CMPE229: Field-Programmable Gate Arrays Computer-Assisted Design
+CMPE230: Computer Performance Evaluation
+CMPE231: Human-Computer Interaction
+CMPE232: Arithmetic Processors
+CMPE233: Human Factors
+CMPE235: User Evaluation of Technology
+CMPE240: Introduction to Linear Dynamical Systems
+CMPE241: Introduction to Feedback Control Systems
+CMPE242: Applied Feedback Control
+CMPE243: System Identification
+CMPE244: Digital Control
+CMPE245: Estimation and Introduction to Control of Stochastic Processes
+CMPE246: Hybrid Dynamical Systems
+CMPE247: Advanced Feedback Control Design
+CMPE248: Games in Design and Control
+CMPE249: Introduction to Cyber-physical Systems
+CMPE250: Multimedia Systems
+CMPE251: Error-Control Coding
+CMPE252A: Computer Networks
+CMPE252B: Principles of Computer Communication
+CMPE253: Network Security
+CMPE254: High Speed Computer Networks
+CMPE256: Design Project in Computer Networks
+CMPE257: Wireless and Mobile Networks
+CMPE258: Unix Networking Internals
+CMPE259: Sensor Networks
+CMPE263: Data Compression
+CMPE264: Image Analysis and Computer Vision
+CMPE276: Software Engineering
+CMPE277: Graph Algorithms
+CMPE278: Introduction to the Theory of Discrete Systems
+CMPE280B: Seminar on Bioinformatics
+CMPE280C: Seminar on Control
+CMPE280G: VLSI/CAD Seminar
+CMPE280N: Seminar on Networks
+CMPE280P: Seminar on Parallel Processing
+CMPE280T: Seminar on New Technologies
+CMPE280V: Seminar on Computer Vision
+CMPE285: Technical Writing for Engineering Graduates
+CMPE290L: Advanced Topics in VLSI Computer-Aided Design
+CMPE290M: Topics in Parallel Computation
+CMPE290N: Topics in Computer Performance
+CMPE290V: Advanced Topics in Visual Computing
+CMPE293: Advanced Topics in Computer Engineering
+CMPE296: Master Project
+CMPE297: Independent Study or Research
+CMPE299: Thesis Research
+CMPE299F: Thesis Research
+CMPS2: Computer Literacy
+CMPS5C: Introduction to Programming in C/C++
+CMPS5J: Introduction to Programming in Java
+CMPS5P: Introduction to Programming in Python
+CMPS10: Introduction to Computer Science
+CMPS11: Intermediate Programming
+CMPS12A: Introduction to Programming (Accelerated)
+CMPS12B: Introduction to Data Structures
+CMPS12L: Computer Programming Laboratory
+CMPS12M: Data Structures Laboratory
+CMPS13H: Introduction to Programming and Data Structures (Honors)
+CMPS13L: Introduction to Programming and Data Structures Laboratory
+CMPS17: Social Networks
+CMPS20: Game Design Experience
+CMPS25: Introduction to Computer Graphics: 3D Modeling
+CMPS26: Introduction to Computer Graphics:  3D Animation
+CMPS60G: Beginning Programming: Social Sciences and Humanities
+CMPS60M: Scientific Computation with Matlab and Maple
+CMPS60N: Beginning Programming: Natural Sciences
+CMPS80B: Systems and Simulation
+CMPS80C: Social Networks
+CMPS80G: Introduction to Unix
+CMPS80J: Technology Targeted at Social Issues
+CMPS80K: Foundations of Interactive Game Design
+CMPS80L: Social Data Analytics and Visualization
+CMPS80S: From Software Innovation to Social Entrepreneurship
+CMPS80V: Creating Virtual Worlds on the Web
+CMPS94: Group Tutorial
+CMPS94F: Group Tutorial
+CMPS99: Tutorial
+CMPS99F: Tutorial
+CMPS101: Algorithms and Abstract Data Types
+CMPS102: Introduction to Analysis of Algorithms
+CMPS104A: Fundamentals of Compiler Design I
+CMPS104B: Fundamentals of Compiler Design II
+CMPS105: Systems Programming
+CMPS107: Open Source Programming
+CMPS109: Advanced Programming
+CMPS111: Introduction to Operating Systems
+CMPS112: Comparative Programming Languages
+CMPS115: Introduction to Software Engineering
+CMPS116: Software Design Project
+CMPS117: Software Design Project II
+CMPS119: Software for Society
+CMPS121: Mobile Applications
+CMPS122: Computer Security
+CMPS128: Distributed Systems: File Sharing, Online Gaming, and More
+CMPS129: Data Storage Systems
+CMPS130: Computational Models
+CMPS132: Computability and Computational Complexity
+CMPS132W: Computability and Computational Complexity
+CMPS140: Artificial Intelligence
+CMPS142: Machine Learning and Data Mining
+CMPS143: Introduction to Natural Language Processing
+CMPS146: Game AI
+CMPS148: Interactive Narrative
+CMPS160: Introduction to Computer Graphics
+CMPS160L: Introduction to Computer Graphics Laboratory
+CMPS161: Introduction to Data Visualization
+CMPS161L: Data Visualization Lab
+CMPS162: Advanced Computer Graphics and Animation
+CMPS162L: Advanced Computer Graphics and Animation Lab
+CMPS164: Game Engines
+CMPS164L: Game Engines Lab
+CMPS165: Data Programming for Visualization
+CMPS166A: Game Theory and Applications I
+CMPS166B: Game Theory and Applications II
+CMPS170: Game Design Studio I
+CMPS171: Games Design Studio II
+CMPS172: Game Design Studio III
+CMPS177: Creative Strategies for Designing Interactive Media
+CMPS178: Human-Centered Design Research
+CMPS179: Game Design Practicum
+CMPS180: Database Systems I
+CMPS180W: Database Systems
+CMPS181: Database Systems II
+CMPS182: Introduction to Database Management Systems
+CMPS183: Web Applications
+CMPS184: Data Wrangling and Web Scraping
+CMPS185: Technical Writing and Communication in Computer Science
+CMPS190X: Methods of Cryptography
+CMPS191: Computer Science and Technology Seminar
+CMPS192: Supervised Student Teaching/Tutoring
+CMPS192F: Supervised Student Teaching/Tutoring
+CMPS193: Field Study
+CMPS193F: Field Study
+CMPS194: Group Tutorial
+CMPS194F: Group Tutorial
+CMPS195: Senior Thesis Research
+CMPS195F: Senior Thesis Research
+CMPS198: Individual Study or Research
+CMPS198F: Individual Study or Research
+CMPS199: Tutorial
+CMPS199F: Tutorial
+CMPS200: Research and Teaching in Computer Science and Engineering
+CMPS201: Analysis of Algorithms
+CMPS203: Programming Languages
+CMPS204: Compiler Design
+CMPS210: Computational Models and Complexity
+CMPS211: Combinatorial Algorithms
+CMPS217: Logic in Computer Science
+CMPS218: Foundations of Data Science
+CMPS221: Advanced Operating Systems
+CMPS223: Advanced Computer Security
+CMPS229: Storage Systems
+CMPS232: Distributed Systems
+CMPS240: Artificial Intelligence
+CMPS241: Knowledge Engineering
+CMPS242: Machine Learning
+CMPS244: Artificial Intelligence in Games
+CMPS245: Computational Models of Discourse and Dialogue
+CMPS247: AI:  Problem Solving and Intelligent Search
+CMPS248: Interactive Narrative
+CMPS250: Introduction to Information Theory
+CMPS253: Advanced Programming Languages
+CMPS260: Computer Graphics
+CMPS261: Advanced Visualization
+CMPS262: Computer Animation
+CMPS263: Data Driven Discovery and Visualization
+CMPS265: Generative Methods
+CMPS266A: Data Visualization and Statistical Programming in R
+CMPS266B: Advanced Statistical Programming in R
+CMPS266C: Introduction to Data Wrangling
+CMPS272: Evolutionary Game Theory
+CMPS276: Software Engineering
+CMPS277: Principles of Database Systems
+CMPS278: Design and Implementation of Database Systems
+CMPS279: Software Reuse and Component-Based Software Engineering
+CMPS280A: Seminar in Computer Science Research
+CMPS280D: Seminar in Database Systems
+CMPS280G: Seminar on Software Engineering
+CMPS280H: Seminar in Human Computation Systems
+CMPS280J: Seminar on Computer Graphics
+CMPS280M: Seminar on Machine Learning
+CMPS280S: Seminar on Computer Systems
+CMPS280W: Seminar in Digital Media
+CMPS280X: Seminar on Expressive AI
+CMPS280Z: Seminar in Natural Language Processing and Dialogue
+CMPS290A: Topics in Algorithms and Complexity Theory: Probabilistic Algorithms and Average Case Analysis
+CMPS290B: Advanced Topics in Computer Graphics
+CMPS290C: Advanced Topics in Machine Learning
+CMPS290D: Neural Computation
+CMPS290E: Object-Oriented Programming Methodology
+CMPS290F: Applications of Combinatorics
+CMPS290G: Topics in Software Engineering
+CMPS290H: Topics in Database Systems
+CMPS290I: Internet Technology and Policy
+CMPS290J: Playable Media
+CMPS290L: Topics in Crowdsourcing and Collaboration
+CMPS290M: Information Extraction
+CMPS290P: Data Privacy via Machine Learning, and Back
+CMPS290Q: Topics in Programming Languages
+CMPS290S: Advanced Topics in Computer Systems
+CMPS290T: Topics in Computing for Society
+CMPS290X: Cryptography and Computer Security
+CMPS290Y: Quantum Computing
+CMPS296: Masters Project
+CMPS297: Independent Study or Research
+CMPS297F: Independent Study or Research
+CMPS299: Thesis Research
+EE70: Introduction to Electronic Circuits
+EE70L: Introduction to Electronic Circuits Laboratory
+EE80J: Renewable Energy Sources
+EE80S: Sustainability Engineering and Practice
+EE80T: Modern Electronic Technology and How It Works
+EE81C: Designing a Sustainable Future
+EE94: Group Tutorial
+EE94F: Group Tutorial
+EE99: Tutorial
+EE99F: Tutorial
+EE101: Introduction to Electronic Circuits
+EE101L: Introduction to Electronic Circuits Laboratory
+EE103: Signals and Systems
+EE103L: Signals and Systems Lab
+EE104: Bio-electronics and Bio-instrumentations
+EE115: Introduction to Micro-Electro-Mechanical-Systems Design
+EE122A: Collaborative Sustainability Project Design
+EE122B: Collaborative Sustainability Project Implementation
+EE122C: Collaborative Sustainability Project Implementation
+EE123A: Engineering Design Project I
+EE123B: Engineering Design Project II
+EE129A: Capstone Project I
+EE129B: Capstone Project II
+EE129C: Capstone Project III
+EE130: Introduction to Optoelectronics and Photonics
+EE130L: Introduction to Optoelectronics Laboratory
+EE135: Electromagnetic Fields and Waves
+EE135L: Electromagnetic Fields and Waves Laboratory
+EE136: Engineering Electromagnetics
+EE145: Properties of Materials
+EE145L: Properties of Materials Laboratory
+EE151: Communications Systems
+EE152: Introduction to Wireless Communications
+EE153: Digital Signal Processing
+EE154: Feedback Control Systems
+EE157: RF Hardware Design
+EE157L: RF Hardware Design
+EE171: Analog Electronics
+EE171L: Analog Electronics Laboratory
+EE172: Advanced Analog Circuits
+EE173: High-Speed Digital Design
+EE173L: High-Speed Digital Design Laboratory
+EE174: Introduction to EDA Tools for PCB Design
+EE175: Energy Generation and Control
+EE175L: Energy Generation and Control Laboratory
+EE176: Energy Conversion and Control
+EE176L: Energy Conversion and Control Laboratory
+EE177: Power Electronics
+EE177L: Power Electronics Laboratory
+EE178: Device Electronics
+EE180J: Advanced Renewable Energy Sources
+EE181J: Renewable Energy Sources in Practice
+EE183: Special Topics in Electrical Engineering
+EE192: Special Topics in Electrical Engineering
+EE193: Field Study
+EE193F: Field Study
+EE195: Senior Thesis Research
+EE195F: Senior Thesis Research
+EE198: Individual Study or Research
+EE198F: Independent Field Study
+EE199: Tutorial
+EE199F: Tutorial
+EE200: Research and Teaching in Electrical Engineering
+EE204: Bio-Electronics And Bio-Instrumentations
+EE211: Introduction to Nanotechnology
+EE212: Introduction to BioMEMS
+EE213: Nanocharacterization of Materials
+EE215: Micro-Electro-Mechanical Systems (MEMS) Design
+EE216: Nanomaterials and Nanometer-scale Device
+EE218: Fundamentals of Nanoelectronics
+EE221: Advanced Analog Integrated Circuits
+EE222: High-Speed Low-Power Integrated Circuit Design
+EE223: Advanced Solid State Devices
+EE224: Physical Design of Micro- and Opto-Electronic Packages
+EE225: Basics of Electronics Reliability
+EE226: CMOS Radio Frequency Integrated Circuit Design
+EE227: Fundamentals of Semiconductor Physics
+EE230: Optical Fiber Communication
+EE231: Optical Electronics
+EE232: Quantum Electronics
+EE233: Fiber Optics and Integrated Optics
+EE234: Liquid Crystal Displays
+EE235: Optical Information Storage and Processing
+EE236: Integrated Biophotonics
+EE241: Introduction to Feedback Control Systems
+EE242: Electrical Analysis of Electronics Packaging
+EE250: Digital Signal Processing
+EE251: Principles of Digital Communications
+EE252: Wireless Communications
+EE253: Introduction to Information Theory
+EE254: Multi-user Information Theory
+EE255: Multiple-Antenna Wireless Communications
+EE256: Radar Systems and SAR
+EE261: Error Control Coding
+EE262: Statistical Signal Processing
+EE263: Advanced Topics in Coding Theory
+EE264: Image Processing and Reconstruction
+EE265: Introduction to Inverse Problems
+EE270: Neural Implant Engineering
+EE280B: Seminar on Integrated Bioelectronics
+EE280I: Seminar on Microscopy and Nanotechnology
+EE280M: Seminar on Micro-Electro-Mechanical Systems (MEMS)
+EE280N: Seminar on Nanophotonics and Lab-on-Chip Systems
+EE280O: Seminar on Applied Optics
+EE280Q: Seminar on Quantum Electronics and Nanoelectronics
+EE281: Guest Seminar Series
+EE283: Special Topics in Electrical Engineering
+EE288: Radar, Synthetic Aperture Radar, and ISAR
+EE289: Adaptive Optics for Biological Imaging
+EE290: EE Graduate Seminar
+EE291: Tomorrow&apos;s Professor: Preparing for an Academic Career in Science and Engineering
+EE293: Advanced Topics in Electrical Engineering
+EE296: Master Project
+EE297: Independent Study or Research
+EE299: Thesis Research
+GAME210: Game Art Intensive
+GAME215: Audio Direction
+GAME221: Professional Development for Game Makers 1
+GAME222: Professional Development for Game Makers II
+GAME223: Professional Development for Games Makers III
+GAME230: Fundamentals of Game Engineering
+GAME270: Game and Playable Media Studio 1
+GAME271: Game &amp; Playable Media Studio II
+GAME272: Game &amp; Playable Media Studio III
+GAME273: Game Production Intensive
+ISM50: Business Information Systems
+ISM58: Systems Analysis and Design
+ISM80A: Development, Management, and Commercialization of Technology
+ISM80B: Technology Value Chain Networks
+ISM80C: Starting a New Technology Company
+ISM94: Group Tutorial
+ISM94F: Group Tutorial
+ISM99: Tutorial
+ISM99F: Tutorial
+ISM101: Management of Technology Seminar
+ISM105: Management of Technology I
+ISM125: Management of Technology II
+ISM130: Financial Engineering &amp; Management in High Technology Firms
+ISM158: Business Strategy and Information Systems
+ISM193: Field Study
+ISM193F: Field Study
+ISM194: Group Tutorial
+ISM194F: Group Tutorial
+ISM195: Senior Thesis Research
+ISM195F: Senior Thesis Research
+ISM198: Individual Study or Research
+ISM198F: Individual Study or Research
+ISM199: Individual Study or Research
+ISM204: Introduction to Optimization in Business
+ISM205: Management of Technology I
+ISM206: Optimization Theory and Applications
+ISM207: Random Process Models in Engineering
+ISM208: New Product Development
+ISM209: Data Mining and Business Analytics in Knowledge Services
+ISM210: Marketing Analytics and Engineering
+ISM211: E-Business Technology and Strategy
+ISM215: Organizations and Leadership
+ISM225: Management of Technology II
+ISM230: Financial Engineering and Management in High Technology Firms
+ISM240: Information Technology for Decision Support: an Introduction
+ISM245: Data Mining
+ISM250: Stochastic Optimization in Business Intelligence: Digital Advertising and Online Marketing
+ISM251: Large-Scale Web Analytics and Machine Learning
+ISM260: Information Retrieval
+ISM270: Service Engineering and Management
+ISM280A: Graduate Research Seminar
+ISM280I: Seminar on Information Retrieval and Knowledge Management
+ISM280M: Sales and Marketing for Technologists and Engineers
+ISM280S: Seminar Topics
+ISM293: Advanced Topics in Technology &amp; Information Management
+ISM297: Independent Study
+ISM299: Thesis Research
+TIM20: Innovation and Entrepreneurship Seminar
+TIM21: Innovation and Entrepreneurship in Practice
+TIM50: Business Information Systems
+TIM58: Systems Analysis and Design
+TIM80A: Development, Management, and Commercialization of Technology
+TIM80B: Technology Value Chain Networks
+TIM80C: Starting a New Technology Company
+TIM94: Group Tutorial
+TIM94F: Group Tutorial
+TIM99: Tutorial
+TIM99F: Tutorial
+TIM101: Management of Technology Seminar
+TIM105: Management of Technology I
+TIM115: Entrepreneurial Organization &amp; Leadership
+TIM125: Management of Technology II
+TIM130: Financial Engineering &amp; Management in High Technology Firms
+TIM155: Data Analytics for Water and Energy Management
+TIM158: Business Strategy and Information Systems
+TIM165: Decision Analysis in Management
+TIM166A: Game Theory and Applications I
+TIM193: Field Study
+TIM193F: Field Study
+TIM194: Group Tutorial
+TIM194F: Group Tutorial
+TIM195: Senior Thesis Research
+TIM195F: Senior Thesis Research
+TIM198: Individual Study or Research
+TIM198F: Individual Study or Research
+TIM199: Individual Study or Research
+TIM204: Introduction to Optimization in Business
+TIM205: Management of Technology I
+TIM206: Optimization Theory and Applications
+TIM207: Random Process Models in Engineering
+TIM208: New Product Development
+TIM209: Data Mining and Business Analytics in Knowledge Services
+TIM210: Marketing Analytics and Engineering
+TIM211: E-Business Technology and Strategy
+TIM215: Organizations and Leadership
+TIM225: Management of Technology II
+TIM230: Financial Engineering and Management in High Technology Firms
+TIM240: Information Technology for Decision Support: an Introduction
+TIM245: Data Mining
+TIM250: Stochastic Optimization in Business Intelligence: Digital Advertising and Online Marketing
+TIM251: Large-Scale Web Analytics and Machine Learning
+TIM260: Information Retrieval
+TIM270: Service Engineering and Management
+TIM275: Technology Management in Network Industries
+TIM280A: Graduate Research Seminar
+TIM280I: Seminar on Information Retrieval and Knowledge Management
+TIM280M: Sales and Marketing for Technologists and Engineers
+TIM280S: Seminar Topics
+TIM283: Special Topics in Technology Information Management
+TIM293: Advanced Topics in Technology &amp; Information Management
+TIM296: Master Project
+TIM297: Independent Study
+TIM299: Thesis Research

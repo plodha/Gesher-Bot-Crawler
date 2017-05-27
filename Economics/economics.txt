@@ -1,0 +1,284 @@
+<span id="sortForm_course_nbr" class="headertext">Course #</span>
+undefined
+ECON 1
+undefined
+ECON 2
+undefined
+ECON 10A
+undefined
+ECON 10B
+undefined
+ECON 11A
+undefined
+ECON 11B
+undefined
+ECON 20
+undefined
+ECON 30
+undefined
+ECON 80A
+undefined
+ECON 80G
+undefined
+ECON 80H
+undefined
+ECON 100A
+undefined
+ECON 100B
+undefined
+ECON 100M
+undefined
+ECON 100N
+undefined
+ECON 101
+undefined
+ECON 104
+undefined
+ECON 105
+undefined
+ECON 110
+undefined
+ECON 111A
+undefined
+ECON 111B
+undefined
+ECON 111C
+undefined
+ECON 112
+undefined
+ECON 113
+undefined
+ECON 114
+undefined
+ECON 115
+undefined
+ECON 116
+undefined
+ECON 117A
+undefined
+ECON 117B
+undefined
+ECON 119
+undefined
+ECON 120
+undefined
+ECON 121
+undefined
+ECON 125
+undefined
+ECON 126
+undefined
+ECON 128
+undefined
+ECON 130
+undefined
+ECON 131
+undefined
+ECON 133
+undefined
+ECON 135
+undefined
+ECON 136
+undefined
+ECON 137
+undefined
+ECON 138
+undefined
+ECON 139A
+undefined
+ECON 139B
+undefined
+ECON 140
+undefined
+ECON 141
+undefined
+ECON 142
+undefined
+ECON 143
+undefined
+ECON 148
+undefined
+ECON 149
+undefined
+ECON 150
+undefined
+ECON 156
+undefined
+ECON 159
+undefined
+ECON 160A
+undefined
+ECON 160B
+undefined
+ECON 161A
+undefined
+ECON 161B
+undefined
+ECON 162
+undefined
+ECON 164
+undefined
+ECON 165
+undefined
+ECON 166A
+undefined
+ECON 166B
+undefined
+ECON 169
+undefined
+ECON 170
+undefined
+ECON 171
+undefined
+ECON 175
+undefined
+ECON 180
+undefined
+ECON 183
+undefined
+ECON 184
+undefined
+ECON 186
+undefined
+ECON 188
+undefined
+ECON 189
+undefined
+ECON 190
+undefined
+ECON 191
+undefined
+ECON 192
+undefined
+ECON 194
+undefined
+ECON 194B
+undefined
+ECON 194F
+undefined
+ECON 195
+undefined
+ECON 197
+undefined
+ECON 200
+undefined
+ECON 201
+undefined
+ECON 202
+undefined
+ECON 204A
+undefined
+ECON 204B
+undefined
+ECON 204C
+undefined
+ECON 205A
+undefined
+ECON 205B
+undefined
+ECON 205C
+undefined
+ECON 209A
+undefined
+ECON 209B
+undefined
+ECON 210A
+undefined
+ECON 210B
+undefined
+ECON 211A
+undefined
+ECON 211B
+undefined
+ECON 211C
+undefined
+ECON 212
+undefined
+ECON 216
+undefined
+ECON 217
+undefined
+ECON 220A
+undefined
+ECON 220B
+undefined
+ECON 221A
+undefined
+ECON 221B
+undefined
+ECON 233
+undefined
+ECON 234
+undefined
+ECON 235
+undefined
+ECON 236
+undefined
+ECON 239
+undefined
+ECON 240A
+undefined
+ECON 240B
+undefined
+ECON 240C
+undefined
+ECON 241A
+undefined
+ECON 241B
+undefined
+ECON 241C
+undefined
+ECON 243
+undefined
+ECON 249A
+undefined
+ECON 249B
+undefined
+ECON 250
+undefined
+ECON 259A
+undefined
+ECON 259B
+undefined
+ECON 270
+undefined
+ECON 271
+undefined
+ECON 272
+undefined
+ECON 273
+undefined
+ECON 274
+undefined
+ECON 275
+undefined
+ECON 276
+undefined
+ECON 290
+undefined
+ECON 291
+undefined
+ECON 293
+undefined
+ECON 294A
+undefined
+ECON 294B
+undefined
+ECON 294C
+undefined
+ECON 294D
+undefined
+ECON 295A
+undefined
+ECON 295B
+undefined
+ECON 295C
+undefined
+ECON 296A
+undefined
+ECON 296B
+undefined
+ECON 296C
+undefined
+ECON 298
+undefined

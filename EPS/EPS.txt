@@ -1,0 +1,234 @@
+<span id="sortForm_course_nbr" class="headertext">Course #</span>
+<span id="sortForm_title" class="headertext">Course Title</span>
+EART 1
+<span id="crse_id_019371" class="collapseExpandText">Oceanography</span>
+EART 2
+<span id="crse_id_019403" class="collapseExpandText">Earth Catastrophes</span>
+EART 3
+<span id="crse_id_019374" class="collapseExpandText">Geology of National Parks</span>
+EART 5
+<span id="crse_id_019376" class="collapseExpandText">California Geology</span>
+EART 5L
+<span id="crse_id_019378" class="collapseExpandText">California Geology Laboratory</span>
+EART 7
+<span id="crse_id_019381" class="collapseExpandText">The History of Life</span>
+EART 8
+<span id="crse_id_019414" class="collapseExpandText">Planetary Discovery</span>
+EART 9
+<span id="crse_id_019413" class="collapseExpandText">Earth History and Global Change</span>
+EART 10
+<span id="crse_id_019383" class="collapseExpandText">Geologic Principles</span>
+EART 10L
+<span id="crse_id_019384" class="collapseExpandText">Geologic Principles Laboratory</span>
+EART 11
+<span id="crse_id_019406" class="collapseExpandText">Earthquakes</span>
+EART 12
+<span id="crse_id_019408" class="collapseExpandText">Introduction to Weather and Climate</span>
+EART 20
+<span id="crse_id_019391" class="collapseExpandText">Environmental Geology</span>
+EART 20L
+<span id="crse_id_019393" class="collapseExpandText">Environmental Geology Laboratory</span>
+EART 65
+<span id="crse_id_019399" class="collapseExpandText">Natural History of Dinosaurs</span>
+EART 81B
+<span id="crse_id_109444" class="collapseExpandText">Fundamentals of Environmental Science</span>
+EART 98
+<span id="crse_id_019416" class="collapseExpandText">Earth Sciences Internship</span>
+EART 99
+<span id="crse_id_019417" class="collapseExpandText">Tutorial</span>
+EART 100
+<span id="crse_id_019418" class="collapseExpandText">Vertebrate Paleontology</span>
+EART 100L
+<span id="crse_id_019420" class="collapseExpandText">Vertebrate Paleontology Laboratory</span>
+EART 101
+<span id="crse_id_019421" class="collapseExpandText">Invertebrate Paleobiology</span>
+EART 101L
+<span id="crse_id_019423" class="collapseExpandText">Invertebrate Paleobiology Laboratory</span>
+EART 102
+<span id="crse_id_019424" class="collapseExpandText">Marine Geology</span>
+EART 104
+<span id="crse_id_019428" class="collapseExpandText">Geologic Hazards</span>
+EART 105
+<span id="crse_id_019430" class="collapseExpandText">Coastal Geology</span>
+EART 106
+<span id="crse_id_118954" class="collapseExpandText">Coasts in Crisis</span>
+EART 107
+<span id="crse_id_019434" class="collapseExpandText">Remote Sensing of the Environment</span>
+EART 109
+<span id="crse_id_019438" class="collapseExpandText">Elements of Field Geology</span>
+EART 109L
+<span id="crse_id_019439" class="collapseExpandText">Field Geology Laboratory</span>
+EART 110A
+<span id="crse_id_019441" class="collapseExpandText">Evolution of the Earth</span>
+EART 110B
+<span id="crse_id_019442" class="collapseExpandText">Earth as a Chemical System</span>
+EART 110C
+<span id="crse_id_019443" class="collapseExpandText">The Dynamic Earth</span>
+EART 110L
+<span id="crse_id_019444" class="collapseExpandText">Evolution of the Earth Laboratory</span>
+EART 110M
+<span id="crse_id_019445" class="collapseExpandText">Earth as a Chemical System Laboratory</span>
+EART 110N
+<span id="crse_id_019446" class="collapseExpandText">The Dynamic Earth Laboratory</span>
+EART 111
+<span id="crse_id_102674" class="collapseExpandText">Mathematics in the Earth Sciences</span>
+EART 116
+<span id="crse_id_019453" class="collapseExpandText">Hydrology</span>
+EART 118
+<span id="crse_id_019458" class="collapseExpandText">Seismotectonics</span>
+EART 119
+<span id="crse_id_019460" class="collapseExpandText">Introduction to Scientific Computing</span>
+EART 120
+<span id="crse_id_019462" class="collapseExpandText">Sedimentology and Stratigraphy</span>
+EART 120L
+<span id="crse_id_019464" class="collapseExpandText">Sedimentology and Stratigraphy Laboratory</span>
+EART 121
+<span id="crse_id_019465" class="collapseExpandText">The Atmosphere</span>
+EART 125
+<span id="crse_id_109213" class="collapseExpandText">Statistics and Data Analysis in the Geosciences</span>
+EART 127
+<span id="crse_id_117651" class="collapseExpandText">Measuring Earth&apos;s 4.5 Billion-Year History</span>
+EART 128
+<span id="crse_id_019475" class="collapseExpandText">Isotopes: Fundamentals and Applications in Earth and Marine Sciences</span>
+EART 130
+<span id="crse_id_019476" class="collapseExpandText">Igneous and Metamorphic Petrology</span>
+EART 130L
+<span id="crse_id_019478" class="collapseExpandText">Igneous and Metamorphic Petrology Laboratory</span>
+EART 134
+<span id="crse_id_019480" class="collapseExpandText">Thermochemistry of Geologic Systems</span>
+EART 140
+<span id="crse_id_019481" class="collapseExpandText">Geomorphology</span>
+EART 140L
+<span id="crse_id_019483" class="collapseExpandText">Geomorphology Laboratory</span>
+EART 142
+<span id="crse_id_019485" class="collapseExpandText">Engineering Geology for Environmental Scientists</span>
+EART 146
+<span id="crse_id_019490" class="collapseExpandText">Groundwater</span>
+EART 148
+<span id="crse_id_019493" class="collapseExpandText">Glaciology</span>
+EART 150
+<span id="crse_id_019496" class="collapseExpandText">Structural Geology</span>
+EART 150L
+<span id="crse_id_019497" class="collapseExpandText">Structural Geology Laboratory</span>
+EART 152
+<span id="crse_id_019498" class="collapseExpandText">Tectonics</span>
+EART 160
+<span id="crse_id_104639" class="collapseExpandText">Planetary Science</span>
+EART 162
+<span id="crse_id_019510" class="collapseExpandText">Planetary Interiors</span>
+EART 163
+<span id="crse_id_019517" class="collapseExpandText">Planetary Surfaces</span>
+EART 164
+<span id="crse_id_104642" class="collapseExpandText">Planetary Atmospheres</span>
+EART 165
+<span id="crse_id_118970" class="collapseExpandText">History and Geochemistry of the Solar System</span>
+EART 172
+<span id="crse_id_019522" class="collapseExpandText">Geophysical Fluid Dynamics</span>
+EART 188A
+<span id="crse_id_019535" class="collapseExpandText">Summer Field Internship</span>
+EART 188B
+<span id="crse_id_019536" class="collapseExpandText">Geographic Information Systems with Applications to the Earth Sciences</span>
+EART 190
+<span id="crse_id_019537" class="collapseExpandText">Earth Sciences Mentorship</span>
+EART 191A
+<span id="crse_id_112150" class="collapseExpandText">Climate Change Science and Policy</span>
+EART 191B
+<span id="crse_id_116516" class="collapseExpandText">Planetary Capstone</span>
+EART 191C
+<span id="crse_id_114877" class="collapseExpandText">Practical Geophysics</span>
+EART 203
+<span id="crse_id_019552" class="collapseExpandText">Introductory Teaching Seminar</span>
+EART 204
+<span id="crse_id_110785" class="collapseExpandText">Earth and Planetary Sciences Foundations</span>
+EART 206
+<span id="crse_id_019554" class="collapseExpandText">Great Papers in the Earth Sciences</span>
+EART 207
+<span id="crse_id_019555" class="collapseExpandText">Tectonics</span>
+EART 208
+<span id="crse_id_019556" class="collapseExpandText">Methods in Paleoclimatology</span>
+EART 210
+<span id="crse_id_104834" class="collapseExpandText">Overview of Stellar and Planetary Formation and Evolution</span>
+EART 213
+<span id="crse_id_104776" class="collapseExpandText">Biogeochemical Cycles</span>
+EART 220
+<span id="crse_id_019559" class="collapseExpandText">Ground Water Modeling</span>
+EART 225
+<span id="crse_id_117028" class="collapseExpandText">Statistics and Data Analysis in the Geosciences</span>
+EART 227
+<span id="crse_id_119599" class="collapseExpandText">Measuring Earth&apos;s 4.5 Billion Year History</span>
+EART 229
+<span id="crse_id_108903" class="collapseExpandText">Isotopic Methods in Environmental Science</span>
+EART 240
+<span id="crse_id_108154" class="collapseExpandText">Communicating Science</span>
+EART 254
+<span id="crse_id_104773" class="collapseExpandText">The Climate System</span>
+EART 258
+<span id="crse_id_108904" class="collapseExpandText">Deep Time Paleoclimates</span>
+EART 260
+<span id="crse_id_102372" class="collapseExpandText">Introductory Data Analysis in the Ocean and Earth Sciences</span>
+EART 262
+<span id="crse_id_105047" class="collapseExpandText">Planetary Interiors</span>
+EART 263
+<span id="crse_id_105048" class="collapseExpandText">Planetary Surfaces</span>
+EART 264
+<span id="crse_id_105040" class="collapseExpandText">Planetary Atmospheres</span>
+EART 265
+<span id="crse_id_105046" class="collapseExpandText">Order of Magnitude Estimation</span>
+EART 266
+<span id="crse_id_019581" class="collapseExpandText">Geologic Signal Processing and Inverse Theory</span>
+EART 270
+<span id="crse_id_019585" class="collapseExpandText">Global Seismology</span>
+EART 271
+<span id="crse_id_019588" class="collapseExpandText">Current Research Topics in Deep Earth Processes</span>
+EART 272
+<span id="crse_id_019589" class="collapseExpandText">Geophysical Fluid Dynamics</span>
+EART 275
+<span id="crse_id_019593" class="collapseExpandText">Magnetohydrodynamics</span>
+EART 278A
+<span id="crse_id_019596" class="collapseExpandText">Advanced Seismology</span>
+EART 280D
+<span id="crse_id_108905" class="collapseExpandText">Short Course in Atmospheric/Climate Science</span>
+EART 290B
+<span id="crse_id_019607" class="collapseExpandText">Topics in Glaciology</span>
+EART 290C
+<span id="crse_id_019609" class="collapseExpandText">Topics in Geophysics</span>
+EART 290D
+<span id="crse_id_019610" class="collapseExpandText">Petrology and Plate Tectonics</span>
+EART 290E
+<span id="crse_id_019612" class="collapseExpandText">Topics in Planetary Science</span>
+EART 290F
+<span id="crse_id_019616" class="collapseExpandText">Topics in Coastal Processes</span>
+EART 290G
+<span id="crse_id_019618" class="collapseExpandText">Topics in Global Tectonics</span>
+EART 290H
+<span id="crse_id_019619" class="collapseExpandText">Topics in Hydrogeology</span>
+EART 290I
+<span id="crse_id_109378" class="collapseExpandText">Topics in Geomorphology</span>
+EART 290J
+<span id="crse_id_104690" class="collapseExpandText">Topics in Earthquake Physics</span>
+EART 290K
+<span id="crse_id_019622" class="collapseExpandText">Paleontology Seminar</span>
+EART 290L
+<span id="crse_id_019624" class="collapseExpandText">Topics in Climate Change</span>
+EART 290M
+<span id="crse_id_019626" class="collapseExpandText">Topics in Atmospheric Science</span>
+EART 290N
+<span id="crse_id_019629" class="collapseExpandText">Topics in Mineral Physics</span>
+EART 290P
+<span id="crse_id_019631" class="collapseExpandText">Interdisciplinary Topics in the Earth Sciences</span>
+EART 290Q
+<span id="crse_id_103767" class="collapseExpandText">Topics in Outer Solar System</span>
+EART 290R
+<span id="crse_id_019634" class="collapseExpandText">Topics in the Chemistry and Physics of the Earth</span>
+EART 290T
+<span id="crse_id_019636" class="collapseExpandText">Current Research Topics in Paleoceanography and Paleoclimatology</span>
+EART 290U
+<span id="crse_id_107624" class="collapseExpandText">Topics in Thermochronology</span>
+EART 290X
+<span id="crse_id_110967" class="collapseExpandText">Topics in Modeling Planetary Interiors</span>
+EART 292
+<span id="crse_id_019637" class="collapseExpandText">Seminar</span>
+EART 293
+<span id="crse_id_019638" class="collapseExpandText">Graduate Research Seminar</span>
+EART 298
+<span id="crse_id_019644" class="collapseExpandText">Earth Sciences Internship</span>

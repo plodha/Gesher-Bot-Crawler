@@ -7,8 +7,6 @@ request("https://eps.ucsc.edu/academics/courses/course-catalog.php", function(er
   const $ = cheerio.load(body)
   const tags = []
   const course = []
-  // var title = $(this).find('div.courseNbr > a').eq().html()
-  // console.log(title);
   for (let i = 0; i < 117; i++){
     tags.push($('div.courseNbr').eq(i).html())
     course.push($('div.courseTitle').eq(i).html())

@@ -13,7 +13,7 @@ request("https://www.math.ucsc.edu/courses/course-catalog.php", function(error, 
   }
   fs.unlinkSync('math.txt')
   for (let tag in tags) {
-    fs.appendFileSync('math.txt', `${tags[tag]}\n`)
+    fs.appendFileSync('math.txt', `${tags[tag]}: `)
     fs.appendFileSync('math.txt', `${course[tag]}\n`)
     console.log(tags[tag]+':'+ course[tag])
   }

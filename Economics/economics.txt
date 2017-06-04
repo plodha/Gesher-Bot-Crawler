@@ -1,284 +1,142 @@
-<span id="sortForm_course_nbr" class="headertext">Course #</span>
-undefined
-ECON 1
-undefined
-ECON 2
-undefined
-ECON 10A
-undefined
-ECON 10B
-undefined
-ECON 11A
-undefined
-ECON 11B
-undefined
-ECON 20
-undefined
-ECON 30
-undefined
-ECON 80A
-undefined
-ECON 80G
-undefined
-ECON 80H
-undefined
-ECON 100A
-undefined
-ECON 100B
-undefined
-ECON 100M
-undefined
-ECON 100N
-undefined
-ECON 101
-undefined
-ECON 104
-undefined
-ECON 105
-undefined
-ECON 110
-undefined
-ECON 111A
-undefined
-ECON 111B
-undefined
-ECON 111C
-undefined
-ECON 112
-undefined
-ECON 113
-undefined
-ECON 114
-undefined
-ECON 115
-undefined
-ECON 116
-undefined
-ECON 117A
-undefined
-ECON 117B
-undefined
-ECON 119
-undefined
-ECON 120
-undefined
-ECON 121
-undefined
-ECON 125
-undefined
-ECON 126
-undefined
-ECON 128
-undefined
-ECON 130
-undefined
-ECON 131
-undefined
-ECON 133
-undefined
-ECON 135
-undefined
-ECON 136
-undefined
-ECON 137
-undefined
-ECON 138
-undefined
-ECON 139A
-undefined
-ECON 139B
-undefined
-ECON 140
-undefined
-ECON 141
-undefined
-ECON 142
-undefined
-ECON 143
-undefined
-ECON 148
-undefined
-ECON 149
-undefined
-ECON 150
-undefined
-ECON 156
-undefined
-ECON 159
-undefined
-ECON 160A
-undefined
-ECON 160B
-undefined
-ECON 161A
-undefined
-ECON 161B
-undefined
-ECON 162
-undefined
-ECON 164
-undefined
-ECON 165
-undefined
-ECON 166A
-undefined
-ECON 166B
-undefined
-ECON 169
-undefined
-ECON 170
-undefined
-ECON 171
-undefined
-ECON 175
-undefined
-ECON 180
-undefined
-ECON 183
-undefined
-ECON 184
-undefined
-ECON 186
-undefined
-ECON 188
-undefined
-ECON 189
-undefined
-ECON 190
-undefined
-ECON 191
-undefined
-ECON 192
-undefined
-ECON 194
-undefined
-ECON 194B
-undefined
-ECON 194F
-undefined
-ECON 195
-undefined
-ECON 197
-undefined
-ECON 200
-undefined
-ECON 201
-undefined
-ECON 202
-undefined
-ECON 204A
-undefined
-ECON 204B
-undefined
-ECON 204C
-undefined
-ECON 205A
-undefined
-ECON 205B
-undefined
-ECON 205C
-undefined
-ECON 209A
-undefined
-ECON 209B
-undefined
-ECON 210A
-undefined
-ECON 210B
-undefined
-ECON 211A
-undefined
-ECON 211B
-undefined
-ECON 211C
-undefined
-ECON 212
-undefined
-ECON 216
-undefined
-ECON 217
-undefined
-ECON 220A
-undefined
-ECON 220B
-undefined
-ECON 221A
-undefined
-ECON 221B
-undefined
-ECON 233
-undefined
-ECON 234
-undefined
-ECON 235
-undefined
-ECON 236
-undefined
-ECON 239
-undefined
-ECON 240A
-undefined
-ECON 240B
-undefined
-ECON 240C
-undefined
-ECON 241A
-undefined
-ECON 241B
-undefined
-ECON 241C
-undefined
-ECON 243
-undefined
-ECON 249A
-undefined
-ECON 249B
-undefined
-ECON 250
-undefined
-ECON 259A
-undefined
-ECON 259B
-undefined
-ECON 270
-undefined
-ECON 271
-undefined
-ECON 272
-undefined
-ECON 273
-undefined
-ECON 274
-undefined
-ECON 275
-undefined
-ECON 276
-undefined
-ECON 290
-undefined
-ECON 291
-undefined
-ECON 293
-undefined
-ECON 294A
-undefined
-ECON 294B
-undefined
-ECON 294C
-undefined
-ECON 294D
-undefined
-ECON 295A
-undefined
-ECON 295B
-undefined
-ECON 295C
-undefined
-ECON 296A
-undefined
-ECON 296B
-undefined
-ECON 296C
-undefined
-ECON 298
-undefined
+<span id="sortForm_course_nbr" class="headertext">Course #</span>: <span id="sortForm_title" class="headertext">Course Title</span>
+ECON 1: <span id="crse_id_019653" class="collapseExpandText">Introductory Microeconomics: Resource Allocation and Market Structure</span>
+ECON 2: <span id="crse_id_019660" class="collapseExpandText">Introductory Macroeconomics: Aggregate Economic Activity</span>
+ECON 10A: <span id="crse_id_019668" class="collapseExpandText">Economics of Accounting</span>
+ECON 10B: <span id="crse_id_019669" class="collapseExpandText">Economics of Accounting</span>
+ECON 11A: <span id="crse_id_019671" class="collapseExpandText">Mathematical Methods for Economists I</span>
+ECON 11B: <span id="crse_id_019672" class="collapseExpandText">Mathematical Methods for Economists II</span>
+ECON 20: <span id="crse_id_118963" class="collapseExpandText">Economics for Non-Majors</span>
+ECON 30: <span id="crse_id_114958" class="collapseExpandText">Introduction to Entrepreneurship</span>
+ECON 80A: <span id="crse_id_019688" class="collapseExpandText">The Theory, Hope, and Crisis of Capitalism</span>
+ECON 80G: <span id="crse_id_019696" class="collapseExpandText">Money and the Arts: Two All-Consuming Passions</span>
+ECON 80H: <span id="crse_id_019697" class="collapseExpandText">Wall Street and the Money Game</span>
+ECON 100A: <span id="crse_id_019703" class="collapseExpandText">Intermediate Microeconomics</span>
+ECON 100B: <span id="crse_id_019706" class="collapseExpandText">Intermediate Macroeconomics</span>
+ECON 100M: <span id="crse_id_100136" class="collapseExpandText">Intermediate Microeconomics, Math Intensive</span>
+ECON 100N: <span id="crse_id_100451" class="collapseExpandText">Intermediate Macroeconomics, Math Intensive</span>
+ECON 101: <span id="crse_id_019710" class="collapseExpandText">Managerial Economics</span>
+ECON 104: <span id="crse_id_019714" class="collapseExpandText">Is There Truth in Numbers: The Role of Statistics in Economics</span>
+ECON 105: <span id="crse_id_019715" class="collapseExpandText">Topics in Macroeconomics</span>
+ECON 110: <span id="crse_id_019728" class="collapseExpandText">Managerial Cost Accounting and Control</span>
+ECON 111A: <span id="crse_id_019730" class="collapseExpandText">Intermediate Accounting I</span>
+ECON 111B: <span id="crse_id_019731" class="collapseExpandText">Intermediate Accounting II</span>
+ECON 111C: <span id="crse_id_119780" class="collapseExpandText">Intermediate Accounting</span>
+ECON 112: <span id="crse_id_108017" class="collapseExpandText">Auditing and Attestation</span>
+ECON 113: <span id="crse_id_019734" class="collapseExpandText">Introduction to Econometrics</span>
+ECON 114: <span id="crse_id_019737" class="collapseExpandText">Advanced Quantitative Methods</span>
+ECON 115: <span id="crse_id_019738" class="collapseExpandText">Introduction to Management Sciences</span>
+ECON 116: <span id="crse_id_117124" class="collapseExpandText">Advanced Topics in Accounting and Ethics</span>
+ECON 117A: <span id="crse_id_107682" class="collapseExpandText">Income Tax Factors for Individuals</span>
+ECON 117B: <span id="crse_id_019739" class="collapseExpandText">Tax Factors of Business and Investment</span>
+ECON 119: <span id="crse_id_019740" class="collapseExpandText">Advanced Accounting</span>
+ECON 120: <span id="crse_id_019741" class="collapseExpandText">Economic Development</span>
+ECON 121: <span id="crse_id_106343" class="collapseExpandText">Economic Growth</span>
+ECON 125: <span id="crse_id_019747" class="collapseExpandText">Economic History of the U.S</span>
+ECON 126: <span id="crse_id_019748" class="collapseExpandText">Why Economies Succeed or Fail: Lessons from Western and Japanese History</span>
+ECON 128: <span id="crse_id_019751" class="collapseExpandText">Poverty and Public Policy</span>
+ECON 130: <span id="crse_id_019753" class="collapseExpandText">Money and Banking</span>
+ECON 131: <span id="crse_id_019754" class="collapseExpandText">International Financial Markets</span>
+ECON 133: <span id="crse_id_019758" class="collapseExpandText">Security Markets and Financial Institutions</span>
+ECON 135: <span id="crse_id_019760" class="collapseExpandText">Corporate Finance</span>
+ECON 136: <span id="crse_id_019764" class="collapseExpandText">Business Strategy</span>
+ECON 137: <span id="crse_id_019766" class="collapseExpandText">Performing Arts in the Public and Private Economy</span>
+ECON 138: <span id="crse_id_019767" class="collapseExpandText">The Economics and Management of Technology and Innovation</span>
+ECON 139A: <span id="crse_id_019770" class="collapseExpandText">The Economics of Electronic Commerce</span>
+ECON 139B: <span id="crse_id_019772" class="collapseExpandText">E-Commerce Strategy</span>
+ECON 140: <span id="crse_id_019774" class="collapseExpandText">International Trade</span>
+ECON 141: <span id="crse_id_019776" class="collapseExpandText">International Finance</span>
+ECON 142: <span id="crse_id_019777" class="collapseExpandText">Advanced Topics in International Economics</span>
+ECON 143: <span id="crse_id_019779" class="collapseExpandText">Policy Issues in the International Economy</span>
+ECON 148: <span id="crse_id_019786" class="collapseExpandText">Latin American Economies</span>
+ECON 149: <span id="crse_id_019788" class="collapseExpandText">The Economies of East and Southeast Asia</span>
+ECON 150: <span id="crse_id_019789" class="collapseExpandText">Public Finance</span>
+ECON 156: <span id="crse_id_019801" class="collapseExpandText">Health Care and Medical Economics</span>
+ECON 159: <span id="crse_id_108332" class="collapseExpandText">The Economics of Organizations</span>
+ECON 160A: <span id="crse_id_019802" class="collapseExpandText">Industrial Organization</span>
+ECON 160B: <span id="crse_id_019805" class="collapseExpandText">Government and Industry</span>
+ECON 161A: <span id="crse_id_019807" class="collapseExpandText">Marketing</span>
+ECON 161B: <span id="crse_id_105106" class="collapseExpandText">Marketing Research</span>
+ECON 162: <span id="crse_id_019808" class="collapseExpandText">Legal Environment of Business</span>
+ECON 164: <span id="crse_id_019811" class="collapseExpandText">Economics and the Telecommunications Industry</span>
+ECON 165: <span id="crse_id_019812" class="collapseExpandText">Economics as an Experimental Science</span>
+ECON 166A: <span id="crse_id_107168" class="collapseExpandText">Game Theory and Applications I</span>
+ECON 166B: <span id="crse_id_107935" class="collapseExpandText">Game Theory and Applications II</span>
+ECON 169: <span id="crse_id_019814" class="collapseExpandText">Economic Analysis of the Law</span>
+ECON 170: <span id="crse_id_019815" class="collapseExpandText">Environmental Economics</span>
+ECON 171: <span id="crse_id_019816" class="collapseExpandText">Natural Resource Economics</span>
+ECON 175: <span id="crse_id_019817" class="collapseExpandText">Energy Economics</span>
+ECON 180: <span id="crse_id_019819" class="collapseExpandText">Labor Economics</span>
+ECON 183: <span id="crse_id_019823" class="collapseExpandText">Women in the Economy</span>
+ECON 184: <span id="crse_id_019824" class="collapseExpandText">Labor Wars in Theory and Film</span>
+ECON 186: <span id="crse_id_019825" class="collapseExpandText">Mathematical Methods for Economic Analysis</span>
+ECON 188: <span id="crse_id_019827" class="collapseExpandText">Management in the Global Economy</span>
+ECON 189: <span id="crse_id_019828" class="collapseExpandText">Political Economy of Capitalism</span>
+ECON 190: <span id="crse_id_019829" class="collapseExpandText">Senior Proseminar</span>
+ECON 191: <span id="crse_id_019834" class="collapseExpandText">Economics Teaching Practicum</span>
+ECON 192: <span id="crse_id_019836" class="collapseExpandText">Directed Student Teaching</span>
+ECON 194: <span id="crse_id_019839" class="collapseExpandText">Advanced Topics in Management</span>
+ECON 194B: <span id="crse_id_119617" class="collapseExpandText">Advanced Topics in Business and Professional Development</span>
+ECON 194F: <span id="crse_id_106308" class="collapseExpandText">Advanced Topics in Management and Finance</span>
+ECON 195: <span id="crse_id_019840" class="collapseExpandText">Senior Thesis</span>
+ECON 197: <span id="crse_id_112088" class="collapseExpandText">Economic Rhetoric: Using Economic Theory and Empirical Evidence in Arguing Policy</span>
+ECON 200: <span id="crse_id_019846" class="collapseExpandText">Microeconomic Analysis</span>
+ECON 201: <span id="crse_id_019847" class="collapseExpandText">Applications in Microeconomics</span>
+ECON 202: <span id="crse_id_019848" class="collapseExpandText">Macroeconomic Analysis</span>
+ECON 204A: <span id="crse_id_019850" class="collapseExpandText">Advanced Microeconomic Theory</span>
+ECON 204B: <span id="crse_id_019851" class="collapseExpandText">Advanced Microeconomic Theory</span>
+ECON 204C: <span id="crse_id_019852" class="collapseExpandText">Advanced Microeconomic Theory</span>
+ECON 205A: <span id="crse_id_019854" class="collapseExpandText">Advanced Macroeconomic Theory</span>
+ECON 205B: <span id="crse_id_019855" class="collapseExpandText">Advanced Macroeconomic Theory</span>
+ECON 205C: <span id="crse_id_019856" class="collapseExpandText">Advanced Macroeconomic Theory</span>
+ECON 209A: <span id="crse_id_019857" class="collapseExpandText">Accounting 1</span>
+ECON 209B: <span id="crse_id_019858" class="collapseExpandText">Accounting II</span>
+ECON 210A: <span id="crse_id_019860" class="collapseExpandText">Mathematical Methods for Economic Analysis</span>
+ECON 210B: <span id="crse_id_019861" class="collapseExpandText">Mathematical Methods for Economic Analysis</span>
+ECON 211A: <span id="crse_id_019862" class="collapseExpandText">Advanced Econometrics</span>
+ECON 211B: <span id="crse_id_019863" class="collapseExpandText">Advanced Econometrics</span>
+ECON 211C: <span id="crse_id_019864" class="collapseExpandText">Topics in Empirical Research</span>
+ECON 212: <span id="crse_id_019865" class="collapseExpandText">Empirical Project in Econometrics</span>
+ECON 216: <span id="crse_id_019866" class="collapseExpandText">Applied Econometric Analysis I</span>
+ECON 217: <span id="crse_id_019867" class="collapseExpandText">Applied Econometric Analysis II</span>
+ECON 220A: <span id="crse_id_019869" class="collapseExpandText">Development Economics: Theory and Cases</span>
+ECON 220B: <span id="crse_id_019870" class="collapseExpandText">Development Economics: Theory and Cases</span>
+ECON 221A: <span id="crse_id_109280" class="collapseExpandText">Advanced Monetary Economics I</span>
+ECON 221B: <span id="crse_id_109279" class="collapseExpandText">Advanced Monetary Economics II</span>
+ECON 233: <span id="crse_id_019879" class="collapseExpandText">Finance I</span>
+ECON 234: <span id="crse_id_019880" class="collapseExpandText">Financial Institutions and Markets</span>
+ECON 235: <span id="crse_id_019882" class="collapseExpandText">Corporate Finance</span>
+ECON 236: <span id="crse_id_019884" class="collapseExpandText">Financial Engineering</span>
+ECON 239: <span id="crse_id_019885" class="collapseExpandText">Current Topics in Finance</span>
+ECON 240A: <span id="crse_id_019887" class="collapseExpandText">Advanced International Trade Theory I</span>
+ECON 240B: <span id="crse_id_019888" class="collapseExpandText">Advanced International Trade Theory II</span>
+ECON 240C: <span id="crse_id_019889" class="collapseExpandText">Advanced International Trade Theory III</span>
+ECON 241A: <span id="crse_id_019891" class="collapseExpandText">Advanced International Finance I</span>
+ECON 241B: <span id="crse_id_019892" class="collapseExpandText">Advanced International Finance II</span>
+ECON 241C: <span id="crse_id_019893" class="collapseExpandText">Advanced International Finance III</span>
+ECON 243: <span id="crse_id_019895" class="collapseExpandText">History of the International Economy</span>
+ECON 249A: <span id="crse_id_019902" class="collapseExpandText">International Trade and Development Policy I</span>
+ECON 249B: <span id="crse_id_019903" class="collapseExpandText">International Trade and Development Policy II</span>
+ECON 250: <span id="crse_id_019905" class="collapseExpandText">Advanced Public Finance</span>
+ECON 259A: <span id="crse_id_019912" class="collapseExpandText">Cost-Benefit Analysis</span>
+ECON 259B: <span id="crse_id_019913" class="collapseExpandText">Public Policy Analysis</span>
+ECON 270: <span id="crse_id_019926" class="collapseExpandText">Advanced Topics in Applied Microeconomics</span>
+ECON 271: <span id="crse_id_019927" class="collapseExpandText">Advanced Topics in Macroeconomic Theory</span>
+ECON 272: <span id="crse_id_019928" class="collapseExpandText">Evolutionary Game Theory</span>
+ECON 273: <span id="crse_id_104829" class="collapseExpandText">Advanced Applied Microeconomics</span>
+ECON 274: <span id="crse_id_109167" class="collapseExpandText">Workshop in Macroeconomics and Monetary Economics</span>
+ECON 275: <span id="crse_id_112160" class="collapseExpandText">Workshop in Applied Microeconomics</span>
+ECON 276: <span id="crse_id_113431" class="collapseExpandText">Workshop in Experimental Economics</span>
+ECON 290: <span id="crse_id_019931" class="collapseExpandText">Topics in International Economics</span>
+ECON 291: <span id="crse_id_019932" class="collapseExpandText">Workshop in Applied Economics</span>
+ECON 293: <span id="crse_id_019933" class="collapseExpandText">Field Study</span>
+ECON 294A: <span id="crse_id_019935" class="collapseExpandText">Applied Economics and Finance Laboratory</span>
+ECON 294B: <span id="crse_id_019936" class="collapseExpandText">Applied Economics and Finance Seminar</span>
+ECON 294C: <span id="crse_id_116745" class="collapseExpandText">Economics Guest Seminar Series</span>
+ECON 294D: <span id="crse_id_117722" class="collapseExpandText">Applied Economics Seminar</span>
+ECON 295A: <span id="crse_id_019937" class="collapseExpandText">Directed Reading</span>
+ECON 295B: <span id="crse_id_019938" class="collapseExpandText">Directed Reading</span>
+ECON 295C: <span id="crse_id_019939" class="collapseExpandText">Directed Reading</span>
+ECON 296A: <span id="crse_id_019940" class="collapseExpandText">Third Year Ph.D. Seminar</span>
+ECON 296B: <span id="crse_id_019941" class="collapseExpandText">Third Year Ph.D. Seminar</span>
+ECON 296C: <span id="crse_id_019942" class="collapseExpandText">Third Year Ph.D. Seminar</span>
+ECON 298: <span id="crse_id_019947" class="collapseExpandText">Dissertation Research</span>

@@ -13,7 +13,7 @@ request("https://eps.ucsc.edu/academics/courses/course-catalog.php", function(er
   }
   fs.unlinkSync('EPS.txt')
   for (let tag in tags) {
-    fs.appendFileSync('EPS.txt', `${tags[tag]}\n`)
+    fs.appendFileSync('EPS.txt', `${tags[tag]}: `)
     fs.appendFileSync('EPS.txt', `${course[tag]}\n`)
     console.log(tags[tag]+':'+ course[tag])
   }

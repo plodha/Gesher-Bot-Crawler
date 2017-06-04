@@ -1,238 +1,119 @@
-<span id="sortForm_course_nbr" class="headertext">Course #</span>
-<span id="sortForm_title" class="headertext">Course Title</span>
-MATH 2
-<span id="crse_id_025250" class="collapseExpandText">College Algebra for Calculus</span>
-MATH 2S
-<span id="crse_id_110800" class="collapseExpandText">College Algebra for Calculus</span>
-MATH 2T
-<span id="crse_id_118342" class="collapseExpandText">Preparatory Math: Tutorial</span>
-MATH 3
-<span id="crse_id_025255" class="collapseExpandText">Precalculus</span>
-MATH 4
-<span id="crse_id_106339" class="collapseExpandText">Mathematics of Choice and Argument</span>
-MATH 11A
-<span id="crse_id_025271" class="collapseExpandText">Calculus with Applications</span>
-MATH 11B
-<span id="crse_id_025274" class="collapseExpandText">Calculus with Applications</span>
-MATH 19A
-<span id="crse_id_025315" class="collapseExpandText">Calculus for Science, Engineering, and Mathematics</span>
-MATH 19B
-<span id="crse_id_025316" class="collapseExpandText">Calculus for Science, Engineering, and Mathematics</span>
-MATH 20A
-<span id="crse_id_025317" class="collapseExpandText">Honors Calculus</span>
-MATH 20B
-<span id="crse_id_025318" class="collapseExpandText">Honors Calculus</span>
-MATH 21
-<span id="crse_id_025319" class="collapseExpandText">Linear Algebra</span>
-MATH 22
-<span id="crse_id_025321" class="collapseExpandText">Introduction to Calculus of Several Variables</span>
-MATH 23A
-<span id="crse_id_025325" class="collapseExpandText">Vector Calculus</span>
-MATH 23B
-<span id="crse_id_025326" class="collapseExpandText">Vector Calculus</span>
-MATH 24
-<span id="crse_id_025328" class="collapseExpandText">Ordinary Differential Equations</span>
-MATH 100
-<span id="crse_id_025343" class="collapseExpandText">Introduction to Proof and Problem Solving</span>
-MATH 101
-<span id="crse_id_025333" class="collapseExpandText">Mathematical Problem Solving</span>
-MATH 103A
-<span id="crse_id_025347" class="collapseExpandText">Complex Analysis</span>
-MATH 103B
-<span id="crse_id_025350" class="collapseExpandText">Complex Analysis II</span>
-MATH 105A
-<span id="crse_id_025353" class="collapseExpandText">Real Analysis</span>
-MATH 105B
-<span id="crse_id_025355" class="collapseExpandText">Real Analysis</span>
-MATH 105C
-<span id="crse_id_025357" class="collapseExpandText">Real Analysis</span>
-MATH 106
-<span id="crse_id_025359" class="collapseExpandText">Systems of Ordinary Differential Equations</span>
-MATH 107
-<span id="crse_id_025360" class="collapseExpandText">Partial Differential Equations</span>
-MATH 110
-<span id="crse_id_025364" class="collapseExpandText">Introduction to Number Theory</span>
-MATH 111A
-<span id="crse_id_025365" class="collapseExpandText">Algebra</span>
-MATH 111B
-<span id="crse_id_025366" class="collapseExpandText">Algebra</span>
-MATH 114
-<span id="crse_id_102542" class="collapseExpandText">Introduction to Financial Mathematics</span>
-MATH 115
-<span id="crse_id_025370" class="collapseExpandText">Graph Theory</span>
-MATH 116
-<span id="crse_id_114977" class="collapseExpandText">Combinatorics</span>
-MATH 117
-<span id="crse_id_025373" class="collapseExpandText">Advanced Linear Algebra</span>
-MATH 118
-<span id="crse_id_025374" class="collapseExpandText">Advanced Number Theory</span>
-MATH 120
-<span id="crse_id_025379" class="collapseExpandText">Coding Theory</span>
-MATH 121A
-<span id="crse_id_025381" class="collapseExpandText">Differential Geometry</span>
-MATH 121B
-<span id="crse_id_025382" class="collapseExpandText">Differential Geometry and Topology</span>
-MATH 124
-<span id="crse_id_025385" class="collapseExpandText">Introduction to Topology</span>
-MATH 128A
-<span id="crse_id_025391" class="collapseExpandText">Classical Geometry: Euclidean and Non-Euclidean</span>
-MATH 128B
-<span id="crse_id_025392" class="collapseExpandText">Classical Geometry: Projective</span>
-MATH 129
-<span id="crse_id_111977" class="collapseExpandText">Algebraic Geometry</span>
-MATH 130
-<span id="crse_id_025393" class="collapseExpandText">Celestial Mechanics</span>
-MATH 140
-<span id="crse_id_107753" class="collapseExpandText">Industrial Mathematics</span>
-MATH 145
-<span id="crse_id_025418" class="collapseExpandText">Introductory Chaos Theory</span>
-MATH 145L
-<span id="crse_id_025420" class="collapseExpandText">Introductory Chaos Laboratory</span>
-MATH 148
-<span id="crse_id_025426" class="collapseExpandText">Numerical Analysis</span>
-MATH 148L
-<span id="crse_id_025427" class="collapseExpandText">Numerical Analysis Laboratory</span>
-MATH 160
-<span id="crse_id_025434" class="collapseExpandText">Mathematical Logic I</span>
-MATH 161
-<span id="crse_id_025435" class="collapseExpandText">Mathematical Logic II</span>
-MATH 181
-<span id="crse_id_025438" class="collapseExpandText">History of Mathematics</span>
-MATH 188
-<span id="crse_id_025439" class="collapseExpandText">Supervised Teaching</span>
-MATH 189
-<span id="crse_id_110686" class="collapseExpandText">ACE Program Service Learning</span>
-MATH 193A
-<span id="crse_id_118313" class="collapseExpandText">Senior Seminar Education Track</span>
-MATH 193B
-<span id="crse_id_118339" class="collapseExpandText">Senior Seminar Education Track</span>
-MATH 194
-<span id="crse_id_025441" class="collapseExpandText">Senior Seminar</span>
-MATH 195
-<span id="crse_id_025442" class="collapseExpandText">Senior Thesis</span>
-MATH 199
-<span id="crse_id_025443" class="collapseExpandText">Tutorial</span>
-MATH 200
-<span id="crse_id_025445" class="collapseExpandText">Algebra I</span>
-MATH 201
-<span id="crse_id_025449" class="collapseExpandText">Algebra II</span>
-MATH 202
-<span id="crse_id_025452" class="collapseExpandText">Algebra III</span>
-MATH 203
-<span id="crse_id_101219" class="collapseExpandText">Algebra IV</span>
-MATH 204
-<span id="crse_id_025455" class="collapseExpandText">Analysis I</span>
-MATH 205
-<span id="crse_id_025458" class="collapseExpandText">Analysis II</span>
-MATH 206
-<span id="crse_id_025461" class="collapseExpandText">Analysis III</span>
-MATH 207
-<span id="crse_id_025473" class="collapseExpandText">Complex Analysis</span>
-MATH 208
-<span id="crse_id_025535" class="collapseExpandText">Manifolds I</span>
-MATH 209
-<span id="crse_id_025536" class="collapseExpandText">Manifolds II</span>
-MATH 210
-<span id="crse_id_025474" class="collapseExpandText">Manifolds III</span>
-MATH 211
-<span id="crse_id_025475" class="collapseExpandText">Algebraic Topology</span>
-MATH 212
-<span id="crse_id_025537" class="collapseExpandText">Differential Geometry</span>
-MATH 213A
-<span id="crse_id_025478" class="collapseExpandText">Partial Differential Equations I</span>
-MATH 213B
-<span id="crse_id_025479" class="collapseExpandText">Partial Differential Equations II</span>
-MATH 214
-<span id="crse_id_025480" class="collapseExpandText">Theory of Finite Groups</span>
-MATH 215
-<span id="crse_id_025482" class="collapseExpandText">Operator Theory</span>
-MATH 216
-<span id="crse_id_025485" class="collapseExpandText">Advanced Analysis</span>
-MATH 217
-<span id="crse_id_025488" class="collapseExpandText">Advanced Elliptic Partial Differential Equations</span>
-MATH 218
-<span id="crse_id_025493" class="collapseExpandText">Advanced Parabolic and Hyperbolic Partial Differential Equations</span>
-MATH 219
-<span id="crse_id_025495" class="collapseExpandText">Nonlinear Functional Analysis</span>
-MATH 220A
-<span id="crse_id_025498" class="collapseExpandText">Representation Theory I</span>
-MATH 220B
-<span id="crse_id_025499" class="collapseExpandText">Representation Theory II</span>
-MATH 222A
-<span id="crse_id_025502" class="collapseExpandText">Algebraic Number Theory</span>
-MATH 222B
-<span id="crse_id_025503" class="collapseExpandText">Algebraic Number Theory</span>
-MATH 223A
-<span id="crse_id_025507" class="collapseExpandText">Algebraic Geometry I</span>
-MATH 223B
-<span id="crse_id_025508" class="collapseExpandText">Algebraic Geometry II</span>
-MATH 225A
-<span id="crse_id_025513" class="collapseExpandText">Lie Algebras</span>
-MATH 225B
-<span id="crse_id_025515" class="collapseExpandText">Infinite Dimensional Lie Algebras</span>
-MATH 226A
-<span id="crse_id_025518" class="collapseExpandText">Infinite Dimensional Lie Algebras and Quantum Field Theory I</span>
-MATH 226B
-<span id="crse_id_025519" class="collapseExpandText">Infinite Dimensional Lie Algebras and Quantum Field Theory II</span>
-MATH 227
-<span id="crse_id_025520" class="collapseExpandText">Lie Groups</span>
-MATH 228
-<span id="crse_id_025522" class="collapseExpandText">Lie Incidence Geometries</span>
-MATH 229
-<span id="crse_id_025524" class="collapseExpandText">Kac-Moody Algebras</span>
-MATH 232
-<span id="crse_id_025533" class="collapseExpandText">Morse Theory</span>
-MATH 233
-<span id="crse_id_102764" class="collapseExpandText">Random Matrix Theory</span>
-MATH 234
-<span id="crse_id_025476" class="collapseExpandText">Riemann Surfaces</span>
-MATH 235
-<span id="crse_id_025538" class="collapseExpandText">Dynamical Systems Theory</span>
-MATH 238
-<span id="crse_id_025542" class="collapseExpandText">Elliptic Functions and Modular Forms</span>
-MATH 239
-<span id="crse_id_025543" class="collapseExpandText">Homological Algebra</span>
-MATH 240A
-<span id="crse_id_025544" class="collapseExpandText">Representations of Finite Groups I</span>
-MATH 240B
-<span id="crse_id_025545" class="collapseExpandText">Representations of Finite Groups II</span>
-MATH 246
-<span id="crse_id_025548" class="collapseExpandText">Representations of Algebras</span>
-MATH 248
-<span id="crse_id_025549" class="collapseExpandText">Symplectic Geometry</span>
-MATH 249A
-<span id="crse_id_025552" class="collapseExpandText">Mechanics I</span>
-MATH 249B
-<span id="crse_id_025553" class="collapseExpandText">Mechanics II</span>
-MATH 249C
-<span id="crse_id_025554" class="collapseExpandText">Mechanics III</span>
-MATH 252
-<span id="crse_id_025559" class="collapseExpandText">Fluid Mechanics</span>
-MATH 254
-<span id="crse_id_025562" class="collapseExpandText">Geometric Analysis</span>
-MATH 256
-<span id="crse_id_025563" class="collapseExpandText">Algebraic Curves</span>
-MATH 260
-<span id="crse_id_025565" class="collapseExpandText">Combinatorics</span>
-MATH 280
-<span id="crse_id_025568" class="collapseExpandText">Topics in Analysis</span>
-MATH 281
-<span id="crse_id_025569" class="collapseExpandText">Topics in Algebra</span>
-MATH 282
-<span id="crse_id_025570" class="collapseExpandText">Topics in Geometry</span>
-MATH 283
-<span id="crse_id_025571" class="collapseExpandText">Topics in Combinatorial Theory</span>
-MATH 284
-<span id="crse_id_025572" class="collapseExpandText">Topics in Dynamics</span>
-MATH 285
-<span id="crse_id_025573" class="collapseExpandText">Topics in Partial Differential Equations</span>
-MATH 286
-<span id="crse_id_025574" class="collapseExpandText">Topics in Number Theory</span>
-MATH 287
-<span id="crse_id_025575" class="collapseExpandText">Topics in Topology</span>
-MATH 292
-<span id="crse_id_025578" class="collapseExpandText">Seminar</span>
-MATH 296
-<span id="crse_id_025579" class="collapseExpandText">Special Student Seminar</span>
-MATH 298
-<span id="crse_id_025585" class="collapseExpandText">Master&apos;s Thesis Research</span>
+<span id="sortForm_course_nbr" class="headertext">Course #</span>: <span id="sortForm_title" class="headertext">Course Title</span>
+MATH 2: <span id="crse_id_025250" class="collapseExpandText">College Algebra for Calculus</span>
+MATH 2S: <span id="crse_id_110800" class="collapseExpandText">College Algebra for Calculus</span>
+MATH 2T: <span id="crse_id_118342" class="collapseExpandText">Preparatory Math: Tutorial</span>
+MATH 3: <span id="crse_id_025255" class="collapseExpandText">Precalculus</span>
+MATH 4: <span id="crse_id_106339" class="collapseExpandText">Mathematics of Choice and Argument</span>
+MATH 11A: <span id="crse_id_025271" class="collapseExpandText">Calculus with Applications</span>
+MATH 11B: <span id="crse_id_025274" class="collapseExpandText">Calculus with Applications</span>
+MATH 19A: <span id="crse_id_025315" class="collapseExpandText">Calculus for Science, Engineering, and Mathematics</span>
+MATH 19B: <span id="crse_id_025316" class="collapseExpandText">Calculus for Science, Engineering, and Mathematics</span>
+MATH 20A: <span id="crse_id_025317" class="collapseExpandText">Honors Calculus</span>
+MATH 20B: <span id="crse_id_025318" class="collapseExpandText">Honors Calculus</span>
+MATH 21: <span id="crse_id_025319" class="collapseExpandText">Linear Algebra</span>
+MATH 22: <span id="crse_id_025321" class="collapseExpandText">Introduction to Calculus of Several Variables</span>
+MATH 23A: <span id="crse_id_025325" class="collapseExpandText">Vector Calculus</span>
+MATH 23B: <span id="crse_id_025326" class="collapseExpandText">Vector Calculus</span>
+MATH 24: <span id="crse_id_025328" class="collapseExpandText">Ordinary Differential Equations</span>
+MATH 100: <span id="crse_id_025343" class="collapseExpandText">Introduction to Proof and Problem Solving</span>
+MATH 101: <span id="crse_id_025333" class="collapseExpandText">Mathematical Problem Solving</span>
+MATH 103A: <span id="crse_id_025347" class="collapseExpandText">Complex Analysis</span>
+MATH 103B: <span id="crse_id_025350" class="collapseExpandText">Complex Analysis II</span>
+MATH 105A: <span id="crse_id_025353" class="collapseExpandText">Real Analysis</span>
+MATH 105B: <span id="crse_id_025355" class="collapseExpandText">Real Analysis</span>
+MATH 105C: <span id="crse_id_025357" class="collapseExpandText">Real Analysis</span>
+MATH 106: <span id="crse_id_025359" class="collapseExpandText">Systems of Ordinary Differential Equations</span>
+MATH 107: <span id="crse_id_025360" class="collapseExpandText">Partial Differential Equations</span>
+MATH 110: <span id="crse_id_025364" class="collapseExpandText">Introduction to Number Theory</span>
+MATH 111A: <span id="crse_id_025365" class="collapseExpandText">Algebra</span>
+MATH 111B: <span id="crse_id_025366" class="collapseExpandText">Algebra</span>
+MATH 114: <span id="crse_id_102542" class="collapseExpandText">Introduction to Financial Mathematics</span>
+MATH 115: <span id="crse_id_025370" class="collapseExpandText">Graph Theory</span>
+MATH 116: <span id="crse_id_114977" class="collapseExpandText">Combinatorics</span>
+MATH 117: <span id="crse_id_025373" class="collapseExpandText">Advanced Linear Algebra</span>
+MATH 118: <span id="crse_id_025374" class="collapseExpandText">Advanced Number Theory</span>
+MATH 120: <span id="crse_id_025379" class="collapseExpandText">Coding Theory</span>
+MATH 121A: <span id="crse_id_025381" class="collapseExpandText">Differential Geometry</span>
+MATH 121B: <span id="crse_id_025382" class="collapseExpandText">Differential Geometry and Topology</span>
+MATH 124: <span id="crse_id_025385" class="collapseExpandText">Introduction to Topology</span>
+MATH 128A: <span id="crse_id_025391" class="collapseExpandText">Classical Geometry: Euclidean and Non-Euclidean</span>
+MATH 128B: <span id="crse_id_025392" class="collapseExpandText">Classical Geometry: Projective</span>
+MATH 129: <span id="crse_id_111977" class="collapseExpandText">Algebraic Geometry</span>
+MATH 130: <span id="crse_id_025393" class="collapseExpandText">Celestial Mechanics</span>
+MATH 140: <span id="crse_id_107753" class="collapseExpandText">Industrial Mathematics</span>
+MATH 145: <span id="crse_id_025418" class="collapseExpandText">Introductory Chaos Theory</span>
+MATH 145L: <span id="crse_id_025420" class="collapseExpandText">Introductory Chaos Laboratory</span>
+MATH 148: <span id="crse_id_025426" class="collapseExpandText">Numerical Analysis</span>
+MATH 148L: <span id="crse_id_025427" class="collapseExpandText">Numerical Analysis Laboratory</span>
+MATH 160: <span id="crse_id_025434" class="collapseExpandText">Mathematical Logic I</span>
+MATH 161: <span id="crse_id_025435" class="collapseExpandText">Mathematical Logic II</span>
+MATH 181: <span id="crse_id_025438" class="collapseExpandText">History of Mathematics</span>
+MATH 188: <span id="crse_id_025439" class="collapseExpandText">Supervised Teaching</span>
+MATH 189: <span id="crse_id_110686" class="collapseExpandText">ACE Program Service Learning</span>
+MATH 193A: <span id="crse_id_118313" class="collapseExpandText">Senior Seminar Education Track</span>
+MATH 193B: <span id="crse_id_118339" class="collapseExpandText">Senior Seminar Education Track</span>
+MATH 194: <span id="crse_id_025441" class="collapseExpandText">Senior Seminar</span>
+MATH 195: <span id="crse_id_025442" class="collapseExpandText">Senior Thesis</span>
+MATH 199: <span id="crse_id_025443" class="collapseExpandText">Tutorial</span>
+MATH 200: <span id="crse_id_025445" class="collapseExpandText">Algebra I</span>
+MATH 201: <span id="crse_id_025449" class="collapseExpandText">Algebra II</span>
+MATH 202: <span id="crse_id_025452" class="collapseExpandText">Algebra III</span>
+MATH 203: <span id="crse_id_101219" class="collapseExpandText">Algebra IV</span>
+MATH 204: <span id="crse_id_025455" class="collapseExpandText">Analysis I</span>
+MATH 205: <span id="crse_id_025458" class="collapseExpandText">Analysis II</span>
+MATH 206: <span id="crse_id_025461" class="collapseExpandText">Analysis III</span>
+MATH 207: <span id="crse_id_025473" class="collapseExpandText">Complex Analysis</span>
+MATH 208: <span id="crse_id_025535" class="collapseExpandText">Manifolds I</span>
+MATH 209: <span id="crse_id_025536" class="collapseExpandText">Manifolds II</span>
+MATH 210: <span id="crse_id_025474" class="collapseExpandText">Manifolds III</span>
+MATH 211: <span id="crse_id_025475" class="collapseExpandText">Algebraic Topology</span>
+MATH 212: <span id="crse_id_025537" class="collapseExpandText">Differential Geometry</span>
+MATH 213A: <span id="crse_id_025478" class="collapseExpandText">Partial Differential Equations I</span>
+MATH 213B: <span id="crse_id_025479" class="collapseExpandText">Partial Differential Equations II</span>
+MATH 214: <span id="crse_id_025480" class="collapseExpandText">Theory of Finite Groups</span>
+MATH 215: <span id="crse_id_025482" class="collapseExpandText">Operator Theory</span>
+MATH 216: <span id="crse_id_025485" class="collapseExpandText">Advanced Analysis</span>
+MATH 217: <span id="crse_id_025488" class="collapseExpandText">Advanced Elliptic Partial Differential Equations</span>
+MATH 218: <span id="crse_id_025493" class="collapseExpandText">Advanced Parabolic and Hyperbolic Partial Differential Equations</span>
+MATH 219: <span id="crse_id_025495" class="collapseExpandText">Nonlinear Functional Analysis</span>
+MATH 220A: <span id="crse_id_025498" class="collapseExpandText">Representation Theory I</span>
+MATH 220B: <span id="crse_id_025499" class="collapseExpandText">Representation Theory II</span>
+MATH 222A: <span id="crse_id_025502" class="collapseExpandText">Algebraic Number Theory</span>
+MATH 222B: <span id="crse_id_025503" class="collapseExpandText">Algebraic Number Theory</span>
+MATH 223A: <span id="crse_id_025507" class="collapseExpandText">Algebraic Geometry I</span>
+MATH 223B: <span id="crse_id_025508" class="collapseExpandText">Algebraic Geometry II</span>
+MATH 225A: <span id="crse_id_025513" class="collapseExpandText">Lie Algebras</span>
+MATH 225B: <span id="crse_id_025515" class="collapseExpandText">Infinite Dimensional Lie Algebras</span>
+MATH 226A: <span id="crse_id_025518" class="collapseExpandText">Infinite Dimensional Lie Algebras and Quantum Field Theory I</span>
+MATH 226B: <span id="crse_id_025519" class="collapseExpandText">Infinite Dimensional Lie Algebras and Quantum Field Theory II</span>
+MATH 227: <span id="crse_id_025520" class="collapseExpandText">Lie Groups</span>
+MATH 228: <span id="crse_id_025522" class="collapseExpandText">Lie Incidence Geometries</span>
+MATH 229: <span id="crse_id_025524" class="collapseExpandText">Kac-Moody Algebras</span>
+MATH 232: <span id="crse_id_025533" class="collapseExpandText">Morse Theory</span>
+MATH 233: <span id="crse_id_102764" class="collapseExpandText">Random Matrix Theory</span>
+MATH 234: <span id="crse_id_025476" class="collapseExpandText">Riemann Surfaces</span>
+MATH 235: <span id="crse_id_025538" class="collapseExpandText">Dynamical Systems Theory</span>
+MATH 238: <span id="crse_id_025542" class="collapseExpandText">Elliptic Functions and Modular Forms</span>
+MATH 239: <span id="crse_id_025543" class="collapseExpandText">Homological Algebra</span>
+MATH 240A: <span id="crse_id_025544" class="collapseExpandText">Representations of Finite Groups I</span>
+MATH 240B: <span id="crse_id_025545" class="collapseExpandText">Representations of Finite Groups II</span>
+MATH 246: <span id="crse_id_025548" class="collapseExpandText">Representations of Algebras</span>
+MATH 248: <span id="crse_id_025549" class="collapseExpandText">Symplectic Geometry</span>
+MATH 249A: <span id="crse_id_025552" class="collapseExpandText">Mechanics I</span>
+MATH 249B: <span id="crse_id_025553" class="collapseExpandText">Mechanics II</span>
+MATH 249C: <span id="crse_id_025554" class="collapseExpandText">Mechanics III</span>
+MATH 252: <span id="crse_id_025559" class="collapseExpandText">Fluid Mechanics</span>
+MATH 254: <span id="crse_id_025562" class="collapseExpandText">Geometric Analysis</span>
+MATH 256: <span id="crse_id_025563" class="collapseExpandText">Algebraic Curves</span>
+MATH 260: <span id="crse_id_025565" class="collapseExpandText">Combinatorics</span>
+MATH 280: <span id="crse_id_025568" class="collapseExpandText">Topics in Analysis</span>
+MATH 281: <span id="crse_id_025569" class="collapseExpandText">Topics in Algebra</span>
+MATH 282: <span id="crse_id_025570" class="collapseExpandText">Topics in Geometry</span>
+MATH 283: <span id="crse_id_025571" class="collapseExpandText">Topics in Combinatorial Theory</span>
+MATH 284: <span id="crse_id_025572" class="collapseExpandText">Topics in Dynamics</span>
+MATH 285: <span id="crse_id_025573" class="collapseExpandText">Topics in Partial Differential Equations</span>
+MATH 286: <span id="crse_id_025574" class="collapseExpandText">Topics in Number Theory</span>
+MATH 287: <span id="crse_id_025575" class="collapseExpandText">Topics in Topology</span>
+MATH 292: <span id="crse_id_025578" class="collapseExpandText">Seminar</span>
+MATH 296: <span id="crse_id_025579" class="collapseExpandText">Special Student Seminar</span>
+MATH 298: <span id="crse_id_025585" class="collapseExpandText">Master&apos;s Thesis Research</span>

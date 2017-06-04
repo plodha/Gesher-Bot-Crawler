@@ -15,7 +15,7 @@ request("https://economics.ucsc.edu/academics/courses/course-catalog.php", funct
   }
   fs.unlinkSync('economics.txt')
   for (let tag in tags) {
-    fs.appendFileSync('economics.txt', `${tags[tag]}\n`)
+    fs.appendFileSync('economics.txt', `${tags[tag]}: `)
     fs.appendFileSync('economics.txt', `${course[tag]}\n`)
     console.log(tags[tag]+':'+ course[tag])
   }

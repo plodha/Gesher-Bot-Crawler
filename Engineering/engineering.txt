@@ -115,6 +115,7 @@ BME99: Tutorial
 BME99F: Tutorial
 BME101: Applied Electronics for Bioengineers
 BME101L: Applied Electronics for Bioengineers Lab
+BME105: Genetics in the Genomics Era
 BME109: Resource-Efficient Programming
 BME110: Computational Biology Tools
 BME122H: Extreme Environmental Virology
@@ -264,6 +265,7 @@ CMPE108: Data Compression
 CMPE110: Computer Architecture
 CMPE112: Computer and Game Console Architecture
 CMPE113: Parallel Programming
+CMPE114: Embedded Operating Systems
 CMPE115: Introduction to Solid Mechanics
 CMPE117: Embedded Software
 CMPE117L: Embedded Software Laboratory
@@ -762,5 +764,3 @@ TIM280S: Seminar Topics
 TIM283: Special Topics in Technology Information Management
 TIM293: Advanced Topics in Technology &amp; Information Management
 TIM296: Master Project
-TIM297: Independent Study
-TIM299: Thesis Research

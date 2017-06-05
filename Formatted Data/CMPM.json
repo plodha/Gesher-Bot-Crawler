@@ -1,6 +1,4 @@
-"CMPM": {
-  "CMPM1": "1",
-  "CMPM2": "test",
+{"CMPM": {
   "CMPM25": "Introduction to 3D Modeling",
   "CMPM26": "Introduction to 3D Animation",
   "CMPM80K": "Foundations of Video Game Design",
@@ -35,5 +33,6 @@
   "CMPM290A": "Topics in Computational Media",
   "CMPM290J": "Playable Media",
   "CMPM290K": "Social and Emotional Approaches to Human Computer Interaction",
-  "CMPM290P": "Topics in Computational Cinematography",
+  "CMPM290P": "Topics in Computational Cinematography"
+}
 }

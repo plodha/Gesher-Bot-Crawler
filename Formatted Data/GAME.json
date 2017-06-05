@@ -1,4 +1,4 @@
-"GAME": {
+{"GAME": {
   "GAME210": "Game Art Intensive",
   "GAME215": "Audio Direction",
   "GAME221": "Professional Development for Game Makers 1",
@@ -8,5 +8,6 @@
   "GAME270": "Game and Playable Media Studio 1",
   "GAME271": "Game &amp; Playable Media Studio II",
   "GAME272": "Game &amp; Playable Media Studio III",
-  "GAME273": "Game Production Intensive",
+  "GAME273": "Game Production Intensive"
+}
 }

@@ -1,4 +1,4 @@
-"MATH": {
+{"MATH": {
   "MATH 2": "College Algebra for Calculus",
   "MATH 2S": "College Algebra for Calculus",
   "MATH 2T": "Preparatory Math: Tutorial",
@@ -117,4 +117,5 @@
   "MATH 292": "Seminar",
   "MATH 296": "Special Student Seminar",
   "MATH 298": "Master's Thesis Research"
+}
 }

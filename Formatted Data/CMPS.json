@@ -1,4 +1,4 @@
-"CMPS"": "{
+{"CMPS": {
   "CMPS2": "Computer Literacy",
   "CMPS5C": "Introduction to Programming in C/C++",
   "CMPS5J": "Introduction to Programming in Java",
@@ -159,4 +159,5 @@
   "CMPS297": "Independent Study or Research",
   "CMPS297F": "Independent Study or Research",
   "CMPS299": "Thesis Research",
+}
 }

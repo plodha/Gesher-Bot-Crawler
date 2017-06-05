@@ -1,4 +1,4 @@
-"ECON": {
+{"ECON": {
   "ECON 1": "Introductory Microeconomics: Resource Allocatio Structure",
   "ECON 2": "Introductory Macroeconomics: Aggregate Economic Activity",
   "ECON 10A": "Economics of Accounting",
@@ -140,4 +140,5 @@
   "ECON 296B": "Third Year Ph.D. Seminar",
   "ECON 296C": "Third Year Ph.D. Seminar",
   "ECON 298": "Dissertation Research"
+}
 }

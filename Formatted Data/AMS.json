@@ -1,4 +1,4 @@
-"AMS": {
+{"AMS": {
   "AMS2": "Pre-Statistics",
   "AMS3": "Precalculus for the Social Sciences",
   "AMS5": "Statistics",
@@ -91,5 +91,6 @@
   "AMS296": "Masters Project",
   "AMS297": "Independent Study or Research",
   "AMS297F": "Independent Study",
-  "AMS299": "Thesis Research",
+  "AMS299": "Thesis Research"
+}
 }

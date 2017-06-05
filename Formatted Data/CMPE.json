@@ -1,4 +1,4 @@
-"CMPE": {
+{"CMPE": {
   "CMPE1": "Hands-On Computer Engineering",
   "CMPE3": "Personal Computer Concepts: Software and Hardware",
   "CMPE7": "Statistical Reasoning in the Age of the Internet",
@@ -139,5 +139,6 @@
   "CMPE296": "Master Project",
   "CMPE297": "Independent Study or Research",
   "CMPE299": "Thesis Research",
-  "CMPE299F": "Thesis Research",
+  "CMPE299F": "Thesis Research"
+}
 }

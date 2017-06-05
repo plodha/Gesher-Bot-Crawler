@@ -1,4 +1,4 @@
-"EE": {
+{"EE": {
   "EE70": "Introduction to Electronic Circuits",
   "EE70L": "Introduction to Electronic Circuits Laboratory",
   "EE80J": "Renewable Energy Sources",
@@ -113,5 +113,6 @@
   "EE293": "Advanced Topics in Electrical Engineering",
   "EE296": "Master Project",
   "EE297": "Independent Study or Research",
-  "EE299": "Thesis Research",
+  "EE299": "Thesis Research"
+}
 }

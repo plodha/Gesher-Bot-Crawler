@@ -1,4 +1,4 @@
-"ISM": {
+{"ISM": {
   "ISM50":"Business Information Systems",
   "ISM58":"Systems Analysis and Design",
   "ISM80A":"Development, Management, and Commercialization of Technology",
@@ -45,5 +45,6 @@
   "ISM280S":"Seminar Topics",
   "ISM293":"Advanced Topics in Technology &amp; Information Management",
   "ISM297":"Independent Study",
-  "ISM299":"Thesis Research",
+  "ISM299":"Thesis Research"
+}
 }

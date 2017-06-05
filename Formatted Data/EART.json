@@ -1,4 +1,4 @@
-"EART": {
+{"EART": {
   "EART 1": "Oceanography",
   "EART 2": "Earth Catastrophes",
   "EART 3": "Geology of National Parks",
@@ -115,4 +115,5 @@
   "EART 292": "Seminar",
   "EART 293": "Graduate Research Seminar",
   "EART 298": "Earth Sciences Internship"
+}
 }

@@ -1,4 +1,4 @@
-"BME": {
+{"BME": {
  "BME5": "Introduction to Biotechnology",
  "BME51A": "Applied Electronics for Bioengineers part 1",
  "BME51B": "Applied Electronics for Bioengineers part 2",
@@ -98,5 +98,6 @@
  "BME296": "Research in Bioinformatics",
  "BME297": "Independent Study or Research",
  "BME297F": "Independent Study or Research",
- "BME299": "Thesis Research",
+ "BME299": "Thesis Research"
+}
 }
